@@ -24,7 +24,7 @@
 
 <br/>
 
-### Products I've helped ship
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-shipped-dark.svg"/><img src="assets/h-shipped-light.svg" height="60" alt="Products I've shipped"/></picture>
 
 Used by drug discovery teams in academic, nonprofit, and pharmaceutical organizations.
 
