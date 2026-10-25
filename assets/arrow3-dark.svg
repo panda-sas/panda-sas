@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="28" viewBox="0 0 90 28">
+  <style>
+    .draw { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 2.4s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0 } }
+    .fade { opacity: 0; animation: fade 1.2s ease-out forwards; }
+    @keyframes fade { to { opacity: 1 } }
+    .breathe { animation: breathe 3.6s ease-in-out infinite; }
+    @keyframes breathe { 0%,100% { opacity: 1 } 50% { opacity: .35 } }</style>
+  <g fill="none" stroke="#9b9bf5" stroke-width="2" stroke-linecap="round">
+    <path d="M6.5,13.9 Q44.1,12.4 84.1,14.1" pathLength="1" class="draw" style="animation-duration:.7s;animation-delay:.3s"/>
+    <path d="M70.4,4.5 Q77.9,11.9 81.3,11.8 M70.8,20.2 Q75.7,18.8 80.5,12.8" class="fade" style="animation-delay:.9s"/>
+  </g>
+</svg>
