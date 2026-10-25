@@ -11,7 +11,7 @@
 
 ### About Me
 
-I turn research pain points into AI products scientists rely on: framing the problem, aligning stakeholders, and shipping drug discovery tools powered by LLMs and graph neural networks.
+I turn research pain points into AI products scientists rely on by framing the problem, aligning stakeholders, and shipping drug discovery tools powered by LLMs and graph neural networks.
 
 ---
 
