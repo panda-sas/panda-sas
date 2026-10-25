@@ -3,7 +3,7 @@
   <img width="100%" src="assets/hello14-light.svg" alt="Hi, I'm Saswati. I'm an AI product builder, currently building open-source products in the life sciences and pharmaceutical domain. I like doodling sometimes, too."/>
 </picture>
 
-[LinkedIn](https://www.linkedin.com/in/saswati-panda/) &nbsp;·&nbsp; [Medium](https://medium.com/@saswatipanda91)
+<a href="https://www.linkedin.com/in/saswati-panda/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"/><img src="assets/link-linkedin-light.svg" height="30" alt="LinkedIn"/></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@saswatipanda91"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-medium-dark.svg"/><img src="assets/link-medium-light.svg" height="30" alt="Medium"/></picture></a>
 
 <br/>
 
