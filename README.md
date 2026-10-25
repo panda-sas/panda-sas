@@ -1,19 +1,22 @@
-<div align="center">
-  <img width="100%" src="assets/banner.svg" alt="Saswati Panda · Product × AI × Drug Discovery"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"/>
+  <img width="100%" src="assets/banner-light.svg" alt="Saswati Panda · Product manager, AI for drug discovery"/>
+</picture>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/saswati-panda/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20talk-1c1b2e?style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="https://medium.com/@saswatipanda91"><img src="https://img.shields.io/badge/Medium-Writing-6d28d9?style=for-the-badge" alt="Medium"/></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/saswati-panda/) &nbsp;·&nbsp; [Medium](https://medium.com/@saswatipanda91)
 
-<h3 align="center"><i>I turn research pain points into AI products scientists rely on by framing the problem, aligning stakeholders, and shipping drug discovery tools powered by LLMs and graph neural networks.</i></h3>
+I turn research pain points into AI products scientists rely on by framing the problem, aligning stakeholders, and shipping drug discovery tools powered by LLMs and graph neural networks.
 
 <br/>
 
-<img width="100%" src="assets/pipeline.svg" alt="Product pipeline: DocuStore, ChemCellar, PARSNIP and CAGE-Fusion in production; DAIKON scaled to 25+ organizations; DAIKON AI in pilot"/>
+### Products I've helped ship
 
-<sub>Each one is used by drug discovery teams in academic, nonprofit, and pharmaceutical organizations. Open a product for the story and my role.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg"/>
+  <img width="100%" src="assets/pipeline-light.svg" alt="Product pipeline: DocuStore, ChemCellar, PARSNIP and CAGE-Fusion in production; DAIKON scaled to 25+ organizations; DAIKON AI in pilot"/>
+</picture>
+
+<sub>Used by drug discovery teams in academic, nonprofit, and pharmaceutical organizations. Open a product for the story and my role.</sub>
 
 <details>
 <summary><img src="assets/apps/docustore.svg" width="22" height="22" align="center" alt=""/>&nbsp; <b>DocuStore</b> &nbsp;<sub>ask a lab's papers a question, get a cited answer</sub></summary>
@@ -89,28 +92,9 @@ The next generation of DAIKON. It covers data curation, AI/ML prediction, analys
 
 ### Toolkit
 
-**Product** &nbsp;
-![User Research](https://img.shields.io/badge/User%20Research-0f766e?style=flat-square)
-![Roadmapping](https://img.shields.io/badge/Roadmapping-0f766e?style=flat-square)
-![KPI Design](https://img.shields.io/badge/KPI%20Design-0f766e?style=flat-square)
-![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-0f766e?style=flat-square)
-![Figma](https://img.shields.io/badge/Figma-0f766e?style=flat-square)
-![Confluence](https://img.shields.io/badge/Confluence-0f766e?style=flat-square)
-![Tableau](https://img.shields.io/badge/Tableau-0f766e?style=flat-square)
-
-**AI / Data** &nbsp;
-![Python](https://img.shields.io/badge/Python-6d28d9?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-6d28d9?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-6d28d9?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-6d28d9?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-6d28d9?style=flat-square)
-![KNIME](https://img.shields.io/badge/KNIME-6d28d9?style=flat-square)
-
-**Build** &nbsp;
-![React](https://img.shields.io/badge/React-be185d?style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-be185d?style=flat-square)
-![Azure](https://img.shields.io/badge/Azure-be185d?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-be185d?style=flat-square)
+**Product** &nbsp; User Research · Roadmapping · KPI Design · Agile / Scrum · Figma · Confluence · Tableau<br/>
+**AI / Data** &nbsp; Python · LangChain · Hugging Face · scikit-learn · SQL · KNIME<br/>
+**Build** &nbsp; React · Next.js · Azure · Docker
 
 <br/>
 
