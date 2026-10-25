@@ -13,7 +13,7 @@
 
 | Year | Paper | Venue |
 |:-:|:--|:--|
-| 2026 | [**DocuStore:** Domain-constrained retrieval-augmented generation for drug discovery documents](https://doi.org/10.21203/rs.3.rs-11294579/v1) | Preprint · Research Square |
+| 2026 | [**DocuStore:** Domain-constrained retrieval-augmented generation for drug discovery documents](https://doi.org/10.21203/rs.3.rs-11294579/v1) | Preprint |
 | 2026 | [**CAGE-Fusion:** Deep learning for assay nuisance compound detection using a gated co-attention graph embedding model](https://doi.org/10.1186/s13321-026-01207-4) | *Journal of Cheminformatics* · Springer Nature |
 | 2026 | [Integrating chemical, genetic, and feasibility assessments for anti-tubercular target validation](https://doi.org/10.1038/s44321-026-00415-7) | *EMBO Molecular Medicine* · Springer Nature |
 | 2023 | [**DAIKON:** A data acquisition, integration, and knowledge capture web application for target-based drug discovery](https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/) | *ACS Pharmacology & Translational Science* |
