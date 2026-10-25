@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hello-dark.svg"/>
-  <img width="100%" src="assets/hello-light.svg" alt="Hi, I'm Saswati. I'm an AI product builder in drug discovery."/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hi-dark.svg"/>
+  <img width="100%" src="assets/hi-light.svg" alt="Hi, I'm Saswati. I'm an AI product builder in drug discovery."/>
 </picture>
 
 [LinkedIn](https://www.linkedin.com/in/saswati-panda/) &nbsp;·&nbsp; [Medium](https://medium.com/@saswatipanda91)
