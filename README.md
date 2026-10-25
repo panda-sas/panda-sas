@@ -9,13 +9,13 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-pub-dark.svg"/><img src="assets/h-pub-light.svg" height="60" alt="Published"/></picture>
 
-<a href="https://doi.org/10.21203/rs.3.rs-11294579/v1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pubn1-dark.svg"/><img src="assets/pubn1-light.svg" width="100%" alt="DocuStore: Domain-constrained retrieval-augmented generation for drug discovery documents. Preprint, 2026"/></picture></a>
+<a href="https://doi.org/10.21203/rs.3.rs-11294579/v1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/paper-n1-dark.svg"/><img src="assets/paper-n1-light.svg" width="100%" alt="DocuStore: Domain-constrained retrieval-augmented generation for drug discovery documents. Preprint, 2026"/></picture></a>
 
-<a href="https://doi.org/10.1186/s13321-026-01207-4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pubn2-dark.svg"/><img src="assets/pubn2-light.svg" width="100%" alt="CAGE-Fusion: Deep learning for assay nuisance compound detection using a gated co-attention graph embedding model. Journal of Cheminformatics, 2026"/></picture></a>
+<a href="https://doi.org/10.1186/s13321-026-01207-4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/paper-n2-dark.svg"/><img src="assets/paper-n2-light.svg" width="100%" alt="CAGE-Fusion: Deep learning for assay nuisance compound detection using a gated co-attention graph embedding model. Journal of Cheminformatics, 2026"/></picture></a>
 
-<a href="https://doi.org/10.1038/s44321-026-00415-7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pubn3-dark.svg"/><img src="assets/pubn3-light.svg" width="100%" alt="Integrating chemical, genetic, and feasibility assessments for anti-tubercular target validation. EMBO Molecular Medicine, 2025"/></picture></a>
+<a href="https://doi.org/10.1038/s44321-026-00415-7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/paper-n3-dark.svg"/><img src="assets/paper-n3-light.svg" width="100%" alt="Integrating chemical, genetic, and feasibility assessments for anti-tubercular target validation. EMBO Molecular Medicine, 2025"/></picture></a>
 
-<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pubn4-dark.svg"/><img src="assets/pubn4-light.svg" width="100%" alt="DAIKON: A data acquisition, integration, and knowledge capture web application for target-based drug discovery. ACS Pharmacology and Translational Science, 2023"/></picture></a>
+<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/paper-n4-dark.svg"/><img src="assets/paper-n4-light.svg" width="100%" alt="DAIKON: A data acquisition, integration, and knowledge capture web application for target-based drug discovery. ACS Pharmacology and Translational Science, 2023"/></picture></a>
 
 <p>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/press-dark.svg"/><img src="assets/press-light.svg" align="left" width="190" alt="In the press"/></picture>
