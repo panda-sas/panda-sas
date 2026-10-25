@@ -76,8 +76,8 @@ Used by drug discovery teams in academic, nonprofit, and pharmaceutical organiza
 ### Toolkit
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-v5-dark.svg"/>
-  <img width="100%" src="assets/toolkit-v5-light.svg" alt="Toolkit. AI & Scientific Systems: Agentic AI, LLM-based Vector Retrieval, Knowledge Graphs, Generative AI, RAG, Prompt Engineering, Deep Learning Models, LangChain, Hugging Face, Scikit-learn, SQL, NoSQL. Product: Requirements Definition, Project & Milestone Planning, Stakeholder Alignment, Pilot-to-Production Transition, Cross-functional Coordination, Agile / Scrum, Product Roadmapping, KPI Development, Market Research, Stakeholder Collaboration. Prototyping & Coding: Lovable, Replit, Vercel, Cursor, Codex, Claude Code. Platforms & Tooling: Jupyter, VS Code, Python, Figma, JIRA, Confluence, Miro, KNIME, Benchling, Smartsheet."/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-v6-dark.svg"/>
+  <img width="100%" src="assets/toolkit-v6-light.svg" alt="Toolkit. AI & Scientific Systems: LLM-based Vector Retrieval, Knowledge Graphs, Generative AI, RAG, Prompt Engineering, LangChain, Hugging Face, Scikit-learn, SQL, NoSQL. Product: Requirements Definition, Project & Milestone Planning, Stakeholder Alignment, Pilot-to-Production Transition, Cross-functional Coordination, Agile / Scrum, Product Roadmapping, KPI Development, Market Research, Stakeholder Collaboration. Prototyping & Coding: Lovable, Replit, Vercel, Cursor, Codex, Claude Code. Platforms & Tooling: Jupyter, VS Code, Python, Figma, JIRA, Confluence, Miro, KNIME, Benchling, Smartsheet."/>
 </picture>
 
 <br/>
