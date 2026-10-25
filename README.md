@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="assets/banner.svg" alt="Saswati Panda, spelled with element tiles S, As, W, At, I. Product × AI × Drug Discovery"/>
+  <img width="100%" src="assets/banner.svg" alt="Saswati Panda · Product × AI × Drug Discovery"/>
 </div>
 
 <p align="center">
@@ -87,7 +87,32 @@ The next generation of DAIKON. It covers data curation, AI/ML prediction, analys
 
 <br/>
 
-<img width="100%" src="assets/toolkit.svg" alt="Toolkit. Product: User Research, Roadmapping, KPI Design, Agile, Figma, Confluence, Tableau. AI and data: Python, LangChain, Hugging Face, scikit-learn, SQL, KNIME. Build: React, Next.js, Azure, Docker."/>
+### Toolkit
+
+**Product** &nbsp;
+![User Research](https://img.shields.io/badge/User%20Research-0f766e?style=flat-square)
+![Roadmapping](https://img.shields.io/badge/Roadmapping-0f766e?style=flat-square)
+![KPI Design](https://img.shields.io/badge/KPI%20Design-0f766e?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-0f766e?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-0f766e?style=flat-square)
+![Confluence](https://img.shields.io/badge/Confluence-0f766e?style=flat-square)
+![Tableau](https://img.shields.io/badge/Tableau-0f766e?style=flat-square)
+
+**AI / Data** &nbsp;
+![Python](https://img.shields.io/badge/Python-6d28d9?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-6d28d9?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-6d28d9?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-6d28d9?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-6d28d9?style=flat-square)
+![KNIME](https://img.shields.io/badge/KNIME-6d28d9?style=flat-square)
+
+**Build** &nbsp;
+![React](https://img.shields.io/badge/React-be185d?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-be185d?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-be185d?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-be185d?style=flat-square)
+
+<br/>
 
 <p align="center">
   <sub>Building something in AI, health, or science and need a PM who can also read the code? <a href="https://www.linkedin.com/in/saswati-panda/"><b>Let's talk →</b></a></sub>
