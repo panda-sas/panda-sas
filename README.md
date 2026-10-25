@@ -9,11 +9,30 @@ I turn research pain points into AI products scientists rely on by framing the p
 
 <br/>
 
+### Published
+
+**[1]** &nbsp;[DocuStore: Domain-constrained retrieval-augmented generation for drug discovery documents](https://doi.org/10.21203/rs.3.rs-11294579/v1)<br/>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preprint · 2026</sub>
+
+**[2]** &nbsp;[CAGE-Fusion: Deep learning for assay nuisance compound detection using a gated co-attention graph embedding model](https://doi.org/10.1186/s13321-026-01207-4)<br/>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Journal of Cheminformatics* · Springer Nature · 2026</sub>
+
+**[3]** &nbsp;[Integrating chemical, genetic, and feasibility assessments for anti-tubercular target validation](https://doi.org/10.1038/s44321-026-00415-7)<br/>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*EMBO Molecular Medicine* · Springer Nature · 2025</sub>
+
+**[4]** &nbsp;[DAIKON: A data acquisition, integration, and knowledge capture web application for target-based drug discovery](https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/)<br/>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*ACS Pharmacology & Translational Science* · 2023</sub>
+
+> **Recent work covered in the media** &nbsp;
+> [Phys.org](https://phys.org/news/2026-07-tuberculosis-drug-discovery-smarter-ai.html) &nbsp;·&nbsp; [Drug Target Review](https://www.drugtargetreview.com/researchers-develop-ai-system-to-accelerate-tuberculosis-drug-discovery/2136121.article) &nbsp;·&nbsp; [The Microbiologist](https://www.the-microbiologist.com/news/tuberculosis-drug-discovery-gets-smarter-with-ai/9645.article) &nbsp;·&nbsp; [News-Medical](https://www.news-medical.net/news/20260730/Texas-AM-researchers-build-AI-tools-for-tuberculosis-drug-discovery.aspx)
+
+<br/>
+
 ### Products I've helped ship
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg"/>
-  <img width="100%" src="assets/pipeline-light.svg" alt="Product pipeline: DocuStore, ChemCellar, PARSNIP and CAGE-Fusion in production; DAIKON scaled to 25+ organizations; DAIKON AI in pilot"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/problems-dark.svg"/>
+  <img width="100%" src="assets/problems-light.svg" alt="The problem and what we shipped: DocuStore, ChemCellar, PARSNIP, CAGE-Fusion, DAIKON, DAIKON AI and Curator Studio"/>
 </picture>
 
 <sub>Used by drug discovery teams in academic, nonprofit, and pharmaceutical organizations. Open a product for the story and my role.</sub>
@@ -68,25 +87,6 @@ The next generation of DAIKON. It covers data curation, AI/ML prediction, analys
 <b>My role</b> &nbsp;Product and front-end.
 </blockquote>
 </details>
-
-<br/>
-
-### Published
-
-**[1]** &nbsp;[DocuStore: Domain-constrained retrieval-augmented generation for drug discovery documents](https://doi.org/10.21203/rs.3.rs-11294579/v1)<br/>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preprint · 2026</sub>
-
-**[2]** &nbsp;[CAGE-Fusion: Deep learning for assay nuisance compound detection using a gated co-attention graph embedding model](https://doi.org/10.1186/s13321-026-01207-4)<br/>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Journal of Cheminformatics* · Springer Nature · 2026</sub>
-
-**[3]** &nbsp;[Integrating chemical, genetic, and feasibility assessments for anti-tubercular target validation](https://doi.org/10.1038/s44321-026-00415-7)<br/>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*EMBO Molecular Medicine* · Springer Nature · 2025</sub>
-
-**[4]** &nbsp;[DAIKON: A data acquisition, integration, and knowledge capture web application for target-based drug discovery](https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/)<br/>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*ACS Pharmacology & Translational Science* · 2023</sub>
-
-> **Recent work covered in the media** &nbsp;
-> [Phys.org](https://phys.org/news/2026-07-tuberculosis-drug-discovery-smarter-ai.html) &nbsp;·&nbsp; [Drug Target Review](https://www.drugtargetreview.com/researchers-develop-ai-system-to-accelerate-tuberculosis-drug-discovery/2136121.article) &nbsp;·&nbsp; [The Microbiologist](https://www.the-microbiologist.com/news/tuberculosis-drug-discovery-gets-smarter-with-ai/9645.article) &nbsp;·&nbsp; [News-Medical](https://www.news-medical.net/news/20260730/Texas-AM-researchers-build-AI-tools-for-tuberculosis-drug-discovery.aspx)
 
 <br/>
 

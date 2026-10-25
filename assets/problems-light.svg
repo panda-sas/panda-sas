@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="464" viewBox="0 0 1200 464" role="img" aria-label="Problems and the products shipped for them: DocuStore, ChemCellar, PARSNIP, CAGE-Fusion, DAIKON, DAIKON AI and Curator Studio.">
+  <style>
+    .draw { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 2.4s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0 } }
+    .fade { opacity: 0; animation: fade 1.2s ease-out forwards; }
+    @keyframes fade { to { opacity: 1 } }
+    .breathe { animation: breathe 3.6s ease-in-out infinite; }
+    @keyframes breathe { 0%,100% { opacity: 1 } 50% { opacity: .35 } }</style>
+  <text x="40" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1" fill="#656d76">THE PROBLEM</text>
+  <text x="700" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1" fill="#656d76">WHAT WE SHIPPED</text>
+  <text x="40" y="86" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#656d76" class="fade" style="animation-delay:0.20s">Answers buried in a lab's papers and slide decks</text>
+  <g fill="none" stroke="#5b5bd6" stroke-width="2" stroke-linecap="round">
+    <path d="M574.3,82.2 Q632.0,80.9 669.3,79.8" pathLength="1" class="draw" style="animation-delay:0.50s;animation-duration:.6s"/>
+    <path d="M651.3,71.5 Q658.3,76.7 665.8,78.6 M651.7,85.6 Q658.2,83.6 663.7,81.9" class="fade" style="animation-delay:1.00s"/>
+  </g>
+  <text x="700" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2328" class="fade" style="animation-delay:0.90s">DocuStore</text>
+  <text x="700" y="99" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#656d76" class="fade" style="animation-delay:1.00s">ask a question, get an answer cited to the source</text>
+  <line x1="40" y1="116" x2="1160" y2="116" stroke="#d0d7de"/>
+  <text x="40" y="152" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#656d76" class="fade" style="animation-delay:0.45s">No shared home for a group's compounds and screens</text>
+  <g fill="none" stroke="#5b5bd6" stroke-width="2" stroke-linecap="round">
+    <path d="M573.9,148.3 Q625.1,148.8 667.5,148.2" pathLength="1" class="draw" style="animation-delay:0.75s;animation-duration:.6s"/>
+    <path d="M652.2,137.1 Q657.7,141.8 662.9,146.7 M652.8,153.3 Q660.6,147.7 665.2,143.4" class="fade" style="animation-delay:1.25s"/>
+  </g>
+  <text x="700" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2328" class="fade" style="animation-delay:1.15s">ChemCellar</text>
+  <text x="700" y="165" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#656d76" class="fade" style="animation-delay:1.25s">register, screen, and decide what to make next</text>
+  <line x1="40" y1="182" x2="1160" y2="182" stroke="#d0d7de"/>
+  <text x="40" y="218" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#656d76" class="fade" style="animation-delay:0.70s">No consistent way to rank TB drug targets</text>
+  <g fill="none" stroke="#5b5bd6" stroke-width="2" stroke-linecap="round">
+    <path d="M574.5,213.4 Q611.4,214.7 666.5,209.7" pathLength="1" class="draw" style="animation-delay:1.00s;animation-duration:.6s"/>
+    <path d="M655.1,206.7 Q657.9,208.1 664.6,213.7 M655.1,221.2 Q659.4,216.6 664.3,213.8" class="fade" style="animation-delay:1.50s"/>
+  </g>
+  <text x="700" y="210" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2328" class="fade" style="animation-delay:1.40s">PARSNIP</text>
+  <text x="700" y="231" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#656d76" class="fade" style="animation-delay:1.50s">genetic, chemical, and feasibility evidence in one score</text>
+  <line x1="40" y1="248" x2="1160" y2="248" stroke="#d0d7de"/>
+  <text x="40" y="284" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#656d76" class="fade" style="animation-delay:0.95s">False hits eating up early assay work</text>
+  <g fill="none" stroke="#5b5bd6" stroke-width="2" stroke-linecap="round">
+    <path d="M572.4,276.4 Q610.9,275.3 663.5,280.5" pathLength="1" class="draw" style="animation-delay:1.25s;animation-duration:.6s"/>
+    <path d="M653.3,269.5 Q657.6,274.3 667.1,277.9 M653.9,283.6 Q658.1,282.2 667.9,279.1" class="fade" style="animation-delay:1.75s"/>
+  </g>
+  <text x="700" y="276" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2328" class="fade" style="animation-delay:1.65s">CAGE-Fusion</text>
+  <text x="700" y="297" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#656d76" class="fade" style="animation-delay:1.75s">flags nuisance compounds before they cost a week</text>
+  <line x1="40" y1="314" x2="1160" y2="314" stroke="#d0d7de"/>
+  <text x="40" y="350" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#656d76" class="fade" style="animation-delay:1.20s">Targets, screens, and hits spread across 25+ organizations</text>
+  <g fill="none" stroke="#5b5bd6" stroke-width="2" stroke-linecap="round">
+    <path d="M576.3,343.8 Q619.7,345.4 669.8,343.8" pathLength="1" class="draw" style="animation-delay:1.50s;animation-duration:.6s"/>
+    <path d="M652.6,335.0 Q659.7,340.2 667.8,345.2 M652.8,353.3 Q660.3,347.6 666.7,344.6" class="fade" style="animation-delay:2.00s"/>
+  </g>
+  <text x="700" y="342" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2328" class="fade" style="animation-delay:1.90s">DAIKON</text>
+  <text x="700" y="363" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#656d76" class="fade" style="animation-delay:2.00s">one shared system, in production since 2022</text>
+  <line x1="40" y1="380" x2="1160" y2="380" stroke="#d0d7de"/>
+  <text x="40" y="416" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#656d76" class="fade" style="animation-delay:1.45s">Curation, prediction, and tracking in separate places</text>
+  <g fill="none" stroke="#5b5bd6" stroke-width="2" stroke-linecap="round">
+    <path d="M574.9,409.9 Q624.0,410.5 668.3,412.2" pathLength="1" class="draw" style="animation-delay:1.75s;animation-duration:.6s"/>
+    <path d="M654.2,403.7 Q658.8,406.4 667.0,411.8 M655.0,418.9 Q659.6,413.5 666.7,411.8" class="fade" style="animation-delay:2.25s"/>
+  </g>
+  <text x="700" y="408" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2328" class="fade" style="animation-delay:2.15s">DAIKON AI &amp; Curator Studio</text>
+  <text x="700" y="429" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#656d76" class="fade" style="animation-delay:2.25s">the next generation, in closed user testing</text>
+</svg>
