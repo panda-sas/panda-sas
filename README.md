@@ -76,8 +76,8 @@ Used by drug discovery teams in academic, nonprofit, and pharmaceutical organiza
 ### Toolkit
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-v11-dark.svg"/>
-  <img width="100%" src="assets/toolkit-v11-light.svg" alt="Toolkit. AI & Scientific Systems: LLM-based Vector Retrieval, Knowledge Graphs, Generative AI, RAG, Prompt Engineering, LangChain, Hugging Face, Scikit-learn, SQL, NoSQL. Product: Requirements Definition, Stakeholder Alignment, Pilot-to-Production Transition, Cross-functional Coordination, Agile / Scrum, Product Roadmapping, Market Research, Stakeholder Collaboration. Prototyping & Coding: Lovable, Replit, Vercel, Cursor, Codex, Claude Code. Platforms & Tooling: Jupyter, VS Code, Python, Figma, JIRA, Confluence, Miro, KNIME, Benchling."/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-v12-dark.svg"/>
+  <img width="100%" src="assets/toolkit-v12-light.svg" alt="Toolkit. AI & Scientific Systems: LLM-based Vector Retrieval, Knowledge Graphs, Generative AI, RAG, Prompt Engineering, LangChain, Hugging Face, Scikit-learn, SQL, NoSQL. Product: Requirements Definition, Stakeholder Alignment, Pilot-to-Production Transition, Cross-functional Coordination, Agile / Scrum, Product Roadmapping, Market Research, Stakeholder Collaboration. Prototyping & Coding: Lovable, Replit, Vercel, Cursor, Codex, Claude Code. Platforms & Tooling: Jupyter, VS Code, Python, Figma, JIRA, Confluence, Miro, KNIME."/>
 </picture>
 
 <br/>
