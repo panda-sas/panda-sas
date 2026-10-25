@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="95" viewBox="0 0 800 95" role="img" aria-label="A deep learning model that flags nuisance compounds, the false hits that waste early-stage assay work. It predicts aggregation, luciferase inhibition, chemical reactivity, and promiscuity.">
+  <style>
+    .draw { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 2.4s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0 } }
+    .fade { opacity: 0; animation: fade 1.2s ease-out forwards; }
+    @keyframes fade { to { opacity: 1 } }
+    .breathe { animation: breathe 3.6s ease-in-out infinite; }
+    @keyframes breathe { 0%,100% { opacity: 1 } 50% { opacity: .35 } }</style>
+  <g fill="none" stroke="#5b5bd6" stroke-width="2.2" stroke-linecap="round">
+    <path d="M2.3,18.5 Q49.3,18.0 85.6,15.7" pathLength="1" class="draw" style="animation-delay:.3s;animation-duration:.6s"/>
+    <path d="M74.7,10.0 Q80.2,15.0 86.1,16.2 M73.4,27.7 Q77.9,22.0 85.9,20.3" class="fade" style="animation-delay:.8s"/>
+  </g>
+  <text x="112" y="25" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#656d76">A deep learning model that flags nuisance compounds, the false</text>
+  <text x="112" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#656d76">hits that waste early-stage assay work. It predicts aggregation,</text>
+  <text x="112" y="83" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#656d76">luciferase inhibition, chemical reactivity, and promiscuity.</text>
+</svg>

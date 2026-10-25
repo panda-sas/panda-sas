@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="124" viewBox="0 0 800 124" role="img" aria-label="An open-source platform for collaborative, target-based drug discovery. The TB Drug Accelerator, a Gates Foundation initiative with 25+ member organizations, has used it in production since 2022.">
+  <style>
+    .draw { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 2.4s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0 } }
+    .fade { opacity: 0; animation: fade 1.2s ease-out forwards; }
+    @keyframes fade { to { opacity: 1 } }
+    .breathe { animation: breathe 3.6s ease-in-out infinite; }
+    @keyframes breathe { 0%,100% { opacity: 1 } 50% { opacity: .35 } }</style>
+  <g fill="none" stroke="#9b9bf5" stroke-width="2.2" stroke-linecap="round">
+    <path d="M5.0,16.9 Q48.6,18.7 87.9,16.4" pathLength="1" class="draw" style="animation-delay:.3s;animation-duration:.6s"/>
+    <path d="M74.9,10.4 Q79.0,13.7 85.5,17.2 M73.7,27.0 Q77.6,23.2 85.1,15.7" class="fade" style="animation-delay:.8s"/>
+  </g>
+  <text x="112" y="25" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0">An open-source platform for collaborative, target-based drug</text>
+  <text x="112" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0">discovery. The TB Drug Accelerator, a Gates Foundation</text>
+  <text x="112" y="83" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0">initiative with 25+ member organizations, has used it in</text>
+  <text x="112" y="112" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0">production since 2022.</text>
+</svg>

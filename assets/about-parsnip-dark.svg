@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="95" viewBox="0 0 800 95" role="img" aria-label="A tuberculosis protein assessment and ranking system. It brings together genetic, chemical, and feasibility evidence so teams can rank drug targets consistently.">
+  <style>
+    .draw { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 2.4s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0 } }
+    .fade { opacity: 0; animation: fade 1.2s ease-out forwards; }
+    @keyframes fade { to { opacity: 1 } }
+    .breathe { animation: breathe 3.6s ease-in-out infinite; }
+    @keyframes breathe { 0%,100% { opacity: 1 } 50% { opacity: .35 } }</style>
+  <g fill="none" stroke="#9b9bf5" stroke-width="2.2" stroke-linecap="round">
+    <path d="M5.4,18.1 Q39.4,16.6 87.7,16.2" pathLength="1" class="draw" style="animation-delay:.3s;animation-duration:.6s"/>
+    <path d="M71.6,10.1 Q77.5,13.9 84.6,16.0 M73.8,25.0 Q78.8,20.8 85.2,17.1" class="fade" style="animation-delay:.8s"/>
+  </g>
+  <text x="112" y="25" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0">A tuberculosis protein assessment and ranking system. It brings</text>
+  <text x="112" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0">together genetic, chemical, and feasibility evidence so teams</text>
+  <text x="112" y="83" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0">can rank drug targets consistently.</text>
+</svg>

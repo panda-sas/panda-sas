@@ -32,35 +32,53 @@ I turn research pain points into AI products scientists rely on by framing the p
 
 <sub>Used by drug discovery teams in academic, nonprofit, and pharmaceutical organizations.</sub>
 
-<a href="https://docustore.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-docustore-dark.svg"/><img src="assets/row-docustore-light.svg" width="100%" alt="DocuStore"/></picture></a>
-<sub><a href="https://docustore.io/">docustore.io</a> &nbsp;·&nbsp; <a href="https://doi.org/10.21203/rs.3.rs-11294579/v1">Publication</a></sub>
+<p>
+<a href="https://docustore.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-docustore-dark.svg"/><img src="assets/about-docustore-light.svg" align="right" width="66%" alt="DocuStore description"/></picture></a>
+<b>DocuStore</b><br/>
+<sub><a href="https://docustore.io/">docustore.io</a><br/><a href="https://doi.org/10.21203/rs.3.rs-11294579/v1">Publication</a></sub>
+</p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg"/><img src="assets/rule-light.svg" width="100%" alt=""/></picture>
 
-<a href="https://www.chemcellar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-chemcellar-dark.svg"/><img src="assets/row-chemcellar-light.svg" width="100%" alt="ChemCellar"/></picture></a>
+<p>
+<a href="https://www.chemcellar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-chemcellar-dark.svg"/><img src="assets/about-chemcellar-light.svg" align="right" width="66%" alt="ChemCellar description"/></picture></a>
+<b>ChemCellar</b><br/>
 <sub><a href="https://www.chemcellar.com/">chemcellar.com</a></sub>
+</p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg"/><img src="assets/rule-light.svg" width="100%" alt=""/></picture>
 
-<a href="https://parsnip-56158.web.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-parsnip-dark.svg"/><img src="assets/row-parsnip-light.svg" width="100%" alt="PARSNIP"/></picture></a>
-<sub><a href="https://parsnip-56158.web.app/">Live app</a> &nbsp;·&nbsp; <a href="https://doi.org/10.1038/s44321-026-00415-7">Publication</a></sub>
+<p>
+<a href="https://parsnip-56158.web.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-parsnip-dark.svg"/><img src="assets/about-parsnip-light.svg" align="right" width="66%" alt="PARSNIP description"/></picture></a>
+<b>PARSNIP</b><br/>
+<sub><a href="https://parsnip-56158.web.app/">Live app</a><br/><a href="https://doi.org/10.1038/s44321-026-00415-7">Publication</a></sub>
+</p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg"/><img src="assets/rule-light.svg" width="100%" alt=""/></picture>
 
-<a href="https://studio.orca-03.biobio.tamu.edu/login"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-cage-fusion-dark.svg"/><img src="assets/row-cage-fusion-light.svg" width="100%" alt="CAGE-Fusion"/></picture></a>
-<sub><a href="https://studio.orca-03.biobio.tamu.edu/login">Live app</a> &nbsp;·&nbsp; <a href="https://doi.org/10.1186/s13321-026-01207-4">Publication</a> &nbsp;·&nbsp; <a href="https://github.com/sidxz/cage_fusion">GitHub</a> &nbsp;·&nbsp; <a href="https://doi.org/10.5281/zenodo.17118024">Dataset</a></sub>
+<p>
+<a href="https://studio.orca-03.biobio.tamu.edu/login"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-cage-fusion-dark.svg"/><img src="assets/about-cage-fusion-light.svg" align="right" width="66%" alt="CAGE-Fusion description"/></picture></a>
+<b>CAGE-Fusion</b><br/>
+<sub><a href="https://studio.orca-03.biobio.tamu.edu/login">Live app</a><br/><a href="https://doi.org/10.1186/s13321-026-01207-4">Publication</a><br/><a href="https://github.com/sidxz/cage_fusion">GitHub</a><br/><a href="https://doi.org/10.5281/zenodo.17118024">Dataset</a></sub>
+</p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg"/><img src="assets/rule-light.svg" width="100%" alt=""/></picture>
 
-<a href="https://saclab.github.io/daikon/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-daikon-dark.svg"/><img src="assets/row-daikon-light.svg" width="100%" alt="DAIKON"/></picture></a>
-<sub><a href="https://saclab.github.io/daikon/">saclab.github.io/daikon</a> &nbsp;·&nbsp; <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/">Publication</a> &nbsp;·&nbsp; <a href="https://www.tbdrugaccelerator.org">TB Drug Accelerator</a></sub>
+<p>
+<a href="https://saclab.github.io/daikon/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-daikon-dark.svg"/><img src="assets/about-daikon-light.svg" align="right" width="66%" alt="DAIKON description"/></picture></a>
+<b>DAIKON</b><br/>
+<sub><a href="https://saclab.github.io/daikon/">saclab.github.io/daikon</a><br/><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/">Publication</a><br/><a href="https://www.tbdrugaccelerator.org">TB Drug Accelerator</a></sub>
+</p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg"/><img src="assets/rule-light.svg" width="100%" alt=""/></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-daikon-ai-dark.svg"/><img src="assets/row-daikon-ai-light.svg" width="100%" alt="DAIKON AI and Curator Studio"/></picture>
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-daikon-ai-dark.svg"/><img src="assets/about-daikon-ai-light.svg" align="right" width="66%" alt="DAIKON AI &amp; Curator Studio description"/></picture>
+<b>DAIKON AI &amp; Curator Studio</b><br/>
 <sub>Coming soon</sub>
+</p>
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg"/><img src="assets/rule-light.svg" width="100%" alt=""/></picture>
 
 ### Toolkit
 

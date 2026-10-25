@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="124" viewBox="0 0 800 124" role="img" aria-label="The next generation of DAIKON, in closed user testing. It covers data curation, AI/ML prediction, analysis, and project management across early discovery, from genes and targets through screening, hit assessment, and portfolio.">
+  <style>
+    .draw { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 2.4s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0 } }
+    .fade { opacity: 0; animation: fade 1.2s ease-out forwards; }
+    @keyframes fade { to { opacity: 1 } }
+    .breathe { animation: breathe 3.6s ease-in-out infinite; }
+    @keyframes breathe { 0%,100% { opacity: 1 } 50% { opacity: .35 } }</style>
+  <g fill="none" stroke="#5b5bd6" stroke-width="2.2" stroke-linecap="round">
+    <path d="M6.5,16.9 Q53.9,17.6 87.7,17.2" pathLength="1" class="draw" style="animation-delay:.3s;animation-duration:.6s"/>
+    <path d="M75.0,11.6 Q79.3,14.1 84.3,16.9 M70.4,26.9 Q78.2,22.3 82.7,19.2" class="fade" style="animation-delay:.8s"/>
+  </g>
+  <text x="112" y="25" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#656d76">The next generation of DAIKON, in closed user testing. It covers</text>
+  <text x="112" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#656d76">data curation, AI/ML prediction, analysis, and project</text>
+  <text x="112" y="83" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#656d76">management across early discovery, from genes and targets</text>
+  <text x="112" y="112" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#656d76">through screening, hit assessment, and portfolio.</text>
+</svg>
