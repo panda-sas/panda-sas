@@ -23,8 +23,9 @@
 </p>
 
 <br/>
+<br/>
 
-### Products I've shipped
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-products-dark.svg"/><img src="assets/h-products-light.svg" height="40" alt="Products I've shipped"/></picture>
 
 Used by drug discovery teams in academic, nonprofit, and pharmaceutical organizations.
 
