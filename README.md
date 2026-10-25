@@ -1,11 +1,9 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hello2-dark.svg"/>
-  <img width="100%" src="assets/hello2-light.svg" alt="Hi, I'm Saswati. I'm an AI product builder."/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hello3-dark.svg"/>
+  <img width="100%" src="assets/hello3-light.svg" alt="Hi, I'm Saswati. I'm an AI product builder. I enjoy building open-source products, currently in the life sciences and pharmaceutical domain."/>
 </picture>
 
 [LinkedIn](https://www.linkedin.com/in/saswati-panda/) &nbsp;·&nbsp; [Medium](https://medium.com/@saswatipanda91)
-
-I enjoy building open-source products, currently in the life sciences and pharmaceutical domain.
 
 <br/>
 
