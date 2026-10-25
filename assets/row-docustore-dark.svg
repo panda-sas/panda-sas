@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="151" viewBox="0 0 1200 151" role="img" aria-label="DocuStore: A chemistry-aware document intelligence platform for drug discovery. Scientists ask questions across a lab's papers and slide decks and get answers cited to the source.">
+  <style>
+    .draw { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 2.4s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0 } }
+    .fade { opacity: 0; animation: fade 1.2s ease-out forwards; }
+    @keyframes fade { to { opacity: 1 } }
+    .breathe { animation: breathe 3.6s ease-in-out infinite; }
+    @keyframes breathe { 0%,100% { opacity: 1 } 50% { opacity: .35 } }</style>
+  <text x="0" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#e6edf3">DocuStore</text>
+  <g fill="none" stroke="#9b9bf5" stroke-width="2" stroke-linecap="round">
+    <path d="M289.3,26.2 Q340.6,24.9 374.3,23.8" pathLength="1" class="draw" style="animation-delay:.3s;animation-duration:.6s"/>
+    <path d="M356.3,15.5 Q363.3,20.7 370.8,22.6 M356.7,29.6 Q363.2,27.6 368.7,25.9" class="fade" style="animation-delay:.8s"/>
+  </g>
+  <text x="400" y="29" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#8d96a0">A chemistry-aware document intelligence platform for drug discovery. Scientists ask</text>
+  <text x="400" y="55" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#8d96a0">questions across a lab&#8217;s papers and slide decks and get answers cited to the</text>
+  <text x="400" y="81" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#8d96a0">source.</text>
+  <text x="400" y="113" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#8d96a0"><tspan font-style="italic" fill="#e6edf3">My role:</tspan> Co-first author. Built the multi-agent AI knowledge base that auto-sorted 1,500+</text>
+  <text x="400" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#8d96a0">documents and cut manual curation time by 70%.</text>
+</svg>
