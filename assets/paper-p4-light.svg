@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="78" viewBox="0 0 1200 78" role="img" aria-label="DAIKON: A data acquisition, integration, and knowledge capture web application for target-based drug discovery. ACS Pharmacology and Translational Science, 2023.">
+  <style>
+    .draw { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 2.4s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0 } }
+    .fade { opacity: 0; animation: fade 1.2s ease-out forwards; }
+    @keyframes fade { to { opacity: 1 } }
+    .breathe { animation: breathe 3.6s ease-in-out infinite; }
+    @keyframes breathe { 0%,100% { opacity: 1 } 50% { opacity: .35 } }</style>
+  <g fill="none" stroke="#5b5bd6" stroke-opacity=".8" stroke-width="2" stroke-linecap="round">
+  </g>
+  <text x="2" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="500" fill="#1f2328"><tspan font-weight="700">DAIKON:</tspan> A data acquisition, integration, and knowledge capture web application for target-based drug discovery</text>
+  <text x="2" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#656d76"><tspan font-style="italic">ACS Pharmacology &amp; Translational Science</tspan> · 2023</text>
+</svg>
