@@ -9,6 +9,12 @@
 
 ---
 
+### About Me
+
+I build AI-powered drug discovery products at Texas A&M AgriLife Research, working side by side with scientists to turn complex lab data into tools they use every day.
+
+---
+
 ### Publications
 
 | Year | Paper | Venue |
