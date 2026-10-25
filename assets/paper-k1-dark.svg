@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="82" viewBox="0 0 1200 82" role="img" aria-label="DocuStore: Domain-constrained retrieval-augmented generation for drug discovery documents. Preprint, 2026.">
+  <text x="40" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="500" fill="#e6edf3"><tspan font-weight="700">DocuStore:</tspan> Domain-constrained retrieval-augmented generation for drug</text>
+  <text x="40" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="500" fill="#e6edf3">discovery documents</text>
+  <text x="2" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="600" fill="#8d96a0">1.</text>
+  <text x="860" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-style="italic" fill="#8d96a0">Preprint<tspan font-style="normal"> · 2026</tspan></text>
+  <line x1="0" y1="81" x2="1200" y2="81" stroke="#30363d" stroke-width="2"/>
+</svg>
