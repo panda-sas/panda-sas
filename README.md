@@ -58,7 +58,7 @@ Used by drug discovery teams in academic, nonprofit, and pharmaceutical organiza
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg"/><img src="assets/rule-light.svg" width="100%" alt=""/></picture>
 
 <p>
-<a href="https://saclab.github.io/daikon/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-daikon-dark.svg"/><img src="assets/about-daikon-light.svg" align="right" width="76%" alt="DAIKON description"/></picture></a>
+<a href="https://saclab.github.io/daikon/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-daikon-v2-dark.svg"/><img src="assets/about-daikon-v2-light.svg" align="right" width="76%" alt="DAIKON description"/></picture></a>
 <b>DAIKON</b><br/>
 <sub><a href="https://saclab.github.io/daikon/">saclab.github.io/daikon</a><br/><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/">Publication</a><br/><a href="https://www.tbdrugaccelerator.org">TB Drug Accelerator</a></sub>
 </p>
