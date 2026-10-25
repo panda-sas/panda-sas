@@ -13,10 +13,10 @@
 
 | Year | Paper | Venue |
 |:-:|:--|:--|
-| 2026 | [**DocuStore:** Domain-constrained retrieval-augmented generation for drug discovery documents](https://doi.org/10.21203/rs.3.rs-11294579/v1) &nbsp;`co-first author` | Preprint · Research Square |
-| 2026 | [**CAGE-Fusion:** Deep learning for assay nuisance compound detection using a gated co-attention graph embedding model](https://doi.org/10.1186/s13321-026-01207-4) &nbsp;`co-first author` | *Journal of Cheminformatics* · Springer Nature |
+| 2026 | [**DocuStore:** Domain-constrained retrieval-augmented generation for drug discovery documents](https://doi.org/10.21203/rs.3.rs-11294579/v1) | Preprint · Research Square |
+| 2026 | [**CAGE-Fusion:** Deep learning for assay nuisance compound detection using a gated co-attention graph embedding model](https://doi.org/10.1186/s13321-026-01207-4) | *Journal of Cheminformatics* · Springer Nature |
 | 2026 | [Integrating chemical, genetic, and feasibility assessments for anti-tubercular target validation](https://doi.org/10.1038/s44321-026-00415-7) | *EMBO Molecular Medicine* · Springer Nature |
-| 2023 | [**DAIKON:** A data acquisition, integration, and knowledge capture web application for target-based drug discovery](https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/) &nbsp;`co-first author` | *ACS Pharmacology & Translational Science* |
+| 2023 | [**DAIKON:** A data acquisition, integration, and knowledge capture web application for target-based drug discovery](https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/) | *ACS Pharmacology & Translational Science* |
 
 > ### Recent work covered in the media
 > [Phys.org](https://phys.org/news/2026-07-tuberculosis-drug-discovery-smarter-ai.html) &nbsp;·&nbsp; [Drug Target Review](https://www.drugtargetreview.com/researchers-develop-ai-system-to-accelerate-tuberculosis-drug-discovery/2136121.article) &nbsp;·&nbsp; [The Microbiologist](https://www.the-microbiologist.com/news/tuberculosis-drug-discovery-gets-smarter-with-ai/9645.article) &nbsp;·&nbsp; [News-Medical](https://www.news-medical.net/news/20260730/Texas-AM-researchers-build-AI-tools-for-tuberculosis-drug-discovery.aspx)
