@@ -59,7 +59,7 @@ I turn research pain points into AI products scientists rely on by framing the p
 <p>
 <a href="https://studio.orca-03.biobio.tamu.edu/login"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-cage-fusion-dark.svg"/><img src="assets/about-cage-fusion-light.svg" align="right" width="76%" alt="CAGE-Fusion description"/></picture></a>
 <b>CAGE-Fusion</b><br/>
-<sub><a href="https://studio.orca-03.biobio.tamu.edu/login">Live app</a><br/><a href="https://doi.org/10.1186/s13321-026-01207-4">Publication</a><br/><a href="https://github.com/sidxz/cage_fusion">GitHub</a><br/><a href="https://doi.org/10.5281/zenodo.17118024">Dataset</a></sub>
+<sub><a href="https://studio.orca-03.biobio.tamu.edu/login">Live app</a><br/><a href="https://doi.org/10.1186/s13321-026-01207-4">Publication</a><br/><a href="https://doi.org/10.5281/zenodo.17118024">Dataset</a></sub>
 </p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg"/><img src="assets/rule-light.svg" width="100%" alt=""/></picture>
