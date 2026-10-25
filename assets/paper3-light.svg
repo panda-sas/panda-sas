@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="78" viewBox="0 0 1200 78" role="img" aria-label="Integrating chemical, genetic, and feasibility assessments for anti-tubercular target validation. EMBO Molecular Medicine · Springer Nature, 2025.">
+  <defs>
+    <filter id="wcp" x="-5%" y="-60%" width="110%" height="220%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.03 0.11" numOctaves="3" seed="17" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="11" xChannelSelector="R" yChannelSelector="G" result="d"/>
+      <feGaussianBlur in="d" stdDeviation="1.1"/>
+    </filter>
+  </defs>
+  <style>
+    .draw { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 2.4s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0 } }
+    .fade { opacity: 0; animation: fade 1.2s ease-out forwards; }
+    @keyframes fade { to { opacity: 1 } }
+    .breathe { animation: breathe 3.6s ease-in-out infinite; }
+    @keyframes breathe { 0%,100% { opacity: 1 } 50% { opacity: .35 } }</style>
+  <g filter="url(#wcp)" class="fade" style="animation-delay:0.60s">
+    <path d="M-4.0,5.9 L28.6,5.8 L61.3,5.2 L93.9,4.3 L126.5,4.3 L159.2,5.4 L191.8,5.1 L224.4,5.3 L257.1,6.3 L289.7,6.7 L322.4,7.0 L355.0,7.4 L387.6,7.7 L420.3,6.9 L452.9,7.2 L485.5,7.3 L518.2,7.3 L550.8,7.0 L583.4,6.8 L616.1,6.1 L648.7,7.1 L681.3,7.2 L714.0,8.0 L746.6,9.0 L779.3,9.6 L811.9,11.1 L844.5,11.8 L877.2,14.5 L909.8,23.0 L909.8,23.0 L877.2,31.6 L844.5,33.8 L811.9,35.6 L779.3,36.1 L746.6,36.4 L714.0,37.8 L681.3,37.4 L648.7,38.6 L616.1,38.9 L583.4,38.1 L550.8,38.8 L518.2,38.3 L485.5,38.5 L452.9,37.9 L420.3,37.2 L387.6,36.4 L355.0,36.3 L322.4,36.3 L289.7,37.3 L257.1,36.0 L224.4,36.7 L191.8,35.2 L159.2,36.2 L126.5,34.6 L93.9,35.7 L61.3,35.2 L28.6,34.1 L-4.0,33.5 Z" fill="#f4a261" fill-opacity="0.16" stroke="#f4a261" stroke-opacity="0.14" stroke-width="1.6"/>
+    <path d="M4.0,13.1 L18.1,13.4 L32.3,13.3 L46.4,12.9 L60.5,13.1 L74.7,13.4 L88.8,13.0 L103.0,13.3 L117.1,13.7 L131.2,13.6 L145.4,13.8 L159.5,13.1 L173.6,13.9 L187.8,13.6 L201.9,13.5 L216.1,13.1 L230.2,13.5 L244.3,13.5 L258.5,13.7 L272.6,13.9 L286.7,13.6 L300.9,14.1 L315.0,14.6 L329.1,15.4 L343.3,16.8 L357.4,17.3 L371.6,18.4 L385.7,20.1 L399.8,24.7 L399.8,24.7 L385.7,29.3 L371.6,30.5 L357.4,31.7 L343.3,32.2 L329.1,32.9 L315.0,32.8 L300.9,33.5 L286.7,33.8 L272.6,33.6 L258.5,34.1 L244.3,33.8 L230.2,33.6 L216.1,32.9 L201.9,32.9 L187.8,32.6 L173.6,32.1 L159.5,32.6 L145.4,31.3 L131.2,31.2 L117.1,30.9 L103.0,31.0 L88.8,30.5 L74.7,30.2 L60.5,30.2 L46.4,29.5 L32.3,28.9 L18.1,28.6 L4.0,27.9 Z" fill="#f4a261" fill-opacity="0.10"/>
+  </g>
+  <text x="6" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="500" fill="#1f2328">Integrating chemical, genetic, and feasibility assessments for anti-tubercular target validation</text>
+  <text x="6" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#656d76"><tspan font-style="italic">EMBO Molecular Medicine</tspan> · Springer Nature · 2025</text>
+</svg>
