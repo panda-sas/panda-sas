@@ -7,7 +7,7 @@
 
 <br/>
 
-### Published
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-published-dark.svg"/><img src="assets/h-published-light.svg" height="52" alt="Published"/></picture>
 
 <a href="https://doi.org/10.21203/rs.3.rs-11294579/v1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pub1-dark.svg"/><img src="assets/pub1-light.svg" width="100%" alt="DocuStore: Domain-constrained retrieval-augmented generation for drug discovery documents. Preprint, 2026"/></picture></a>
 
