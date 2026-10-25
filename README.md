@@ -9,20 +9,30 @@
 
 ### Published
 
-**[1]** &nbsp;[DocuStore: Domain-constrained retrieval-augmented generation for drug discovery documents](https://doi.org/10.21203/rs.3.rs-11294579/v1)<br/>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preprint · 2026</sub>
+<p>
+<a href="https://doi.org/10.21203/rs.3.rs-11294579/v1"><b>DocuStore:</b> Domain-constrained retrieval-augmented generation for drug discovery documents</a><br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/year1-dark.svg"/><img src="assets/year1-light.svg" align="center" width="66" alt="2026"/></picture> <sub>Preprint</sub>
+</p>
 
-**[2]** &nbsp;[CAGE-Fusion: Deep learning for assay nuisance compound detection using a gated co-attention graph embedding model](https://doi.org/10.1186/s13321-026-01207-4)<br/>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Journal of Cheminformatics* · Springer Nature · 2026</sub>
+<p>
+<a href="https://doi.org/10.1186/s13321-026-01207-4"><b>CAGE-Fusion:</b> Deep learning for assay nuisance compound detection using a gated co-attention graph embedding model</a><br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/year2-dark.svg"/><img src="assets/year2-light.svg" align="center" width="66" alt="2026"/></picture> <sub><i>Journal of Cheminformatics</i> · Springer Nature</sub>
+</p>
 
-**[3]** &nbsp;[Integrating chemical, genetic, and feasibility assessments for anti-tubercular target validation](https://doi.org/10.1038/s44321-026-00415-7)<br/>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*EMBO Molecular Medicine* · Springer Nature · 2025</sub>
+<p>
+<a href="https://doi.org/10.1038/s44321-026-00415-7">Integrating chemical, genetic, and feasibility assessments for anti-tubercular target validation</a><br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/year3-dark.svg"/><img src="assets/year3-light.svg" align="center" width="66" alt="2025"/></picture> <sub><i>EMBO Molecular Medicine</i> · Springer Nature</sub>
+</p>
 
-**[4]** &nbsp;[DAIKON: A data acquisition, integration, and knowledge capture web application for target-based drug discovery](https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/)<br/>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*ACS Pharmacology & Translational Science* · 2023</sub>
+<p>
+<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/"><b>DAIKON:</b> A data acquisition, integration, and knowledge capture web application for target-based drug discovery</a><br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/year4-dark.svg"/><img src="assets/year4-light.svg" align="center" width="66" alt="2023"/></picture> <sub><i>ACS Pharmacology &amp; Translational Science</i></sub>
+</p>
 
-> **Recent work covered in the media** &nbsp;
-> [Phys.org](https://phys.org/news/2026-07-tuberculosis-drug-discovery-smarter-ai.html) &nbsp;·&nbsp; [Drug Target Review](https://www.drugtargetreview.com/researchers-develop-ai-system-to-accelerate-tuberculosis-drug-discovery/2136121.article) &nbsp;·&nbsp; [The Microbiologist](https://www.the-microbiologist.com/news/tuberculosis-drug-discovery-gets-smarter-with-ai/9645.article) &nbsp;·&nbsp; [News-Medical](https://www.news-medical.net/news/20260730/Texas-AM-researchers-build-AI-tools-for-tuberculosis-drug-discovery.aspx)
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/press-dark.svg"/><img src="assets/press-light.svg" align="left" width="150" alt="In the press"/></picture>
+<a href="https://phys.org/news/2026-07-tuberculosis-drug-discovery-smarter-ai.html">Phys.org</a> &nbsp;·&nbsp; <a href="https://www.drugtargetreview.com/researchers-develop-ai-system-to-accelerate-tuberculosis-drug-discovery/2136121.article">Drug Target Review</a> &nbsp;·&nbsp; <a href="https://www.the-microbiologist.com/news/tuberculosis-drug-discovery-gets-smarter-with-ai/9645.article">The Microbiologist</a> &nbsp;·&nbsp; <a href="https://www.news-medical.net/news/20260730/Texas-AM-researchers-build-AI-tools-for-tuberculosis-drug-discovery.aspx">News-Medical</a>
+</p>
 
 <br/>
 
