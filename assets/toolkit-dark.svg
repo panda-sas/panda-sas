@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="158" viewBox="0 0 1200 158" role="img" aria-label="Toolkit. Product: User Research, Roadmapping, KPI Design, Agile / Scrum, Figma, Confluence, Tableau; AI / Data: Python, LangChain, Hugging Face, scikit-learn, SQL, KNIME; Build: React, Next.js, Azure, Docker">
+  <style>
+    .draw { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 2.4s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0 } }
+    .fade { opacity: 0; animation: fade 1.2s ease-out forwards; }
+    @keyframes fade { to { opacity: 1 } }
+    .breathe { animation: breathe 3.6s ease-in-out infinite; }
+    @keyframes breathe { 0%,100% { opacity: 1 } 50% { opacity: .35 } }</style>
+  <text x="0" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#e6edf3">Product</text>
+  <path d="M-2.7,38.6 Q37.3,36.7 79.7,35.9" fill="none" stroke="#9b9bf5" stroke-width="2.2" stroke-linecap="round" pathLength="1" class="draw" style="animation-delay:0.15s;animation-duration:.6s"/>
+  <text x="170" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0" class="fade" style="animation-delay:0.45s">User Research</text>
+  <circle cx="323.0" cy="23" r="2.2" fill="#30363d"/>
+  <text x="336.028" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0" class="fade" style="animation-delay:0.45s">Roadmapping</text>
+  <circle cx="479.8" cy="23" r="2.2" fill="#30363d"/>
+  <text x="492.75300000000004" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0" class="fade" style="animation-delay:0.45s">KPI Design</text>
+  <circle cx="610.8" cy="23" r="2.2" fill="#30363d"/>
+  <text x="623.7950000000001" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0" class="fade" style="animation-delay:0.45s">Agile / Scrum</text>
+  <circle cx="761.7" cy="23" r="2.2" fill="#30363d"/>
+  <text x="774.6610000000001" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0" class="fade" style="animation-delay:0.45s">Figma</text>
+  <circle cx="846.0" cy="23" r="2.2" fill="#30363d"/>
+  <text x="858.999" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0" class="fade" style="animation-delay:0.45s">Confluence</text>
+  <circle cx="978.2" cy="23" r="2.2" fill="#30363d"/>
+  <text x="991.217" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0" class="fade" style="animation-delay:0.45s">Tableau</text>
+  <text x="0" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#e6edf3">AI / Data</text>
+  <path d="M0.6,92.5 Q51.8,90.3 88.2,92.4" fill="none" stroke="#9b9bf5" stroke-width="2.2" stroke-linecap="round" pathLength="1" class="draw" style="animation-delay:0.50s;animation-duration:.6s"/>
+  <text x="170" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0" class="fade" style="animation-delay:0.80s">Python</text>
+  <circle cx="248.4" cy="77" r="2.2" fill="#30363d"/>
+  <text x="261.373" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0" class="fade" style="animation-delay:0.80s">LangChain</text>
+  <circle cx="375.9" cy="77" r="2.2" fill="#30363d"/>
+  <text x="388.929" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0" class="fade" style="animation-delay:0.80s">Hugging Face</text>
+  <circle cx="532.7" cy="77" r="2.2" fill="#30363d"/>
+  <text x="545.654" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0" class="fade" style="animation-delay:0.80s">scikit-learn</text>
+  <circle cx="659.0" cy="77" r="2.2" fill="#30363d"/>
+  <text x="671.992" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0" class="fade" style="animation-delay:0.80s">SQL</text>
+  <circle cx="727.0" cy="77" r="2.2" fill="#30363d"/>
+  <text x="740.0129999999999" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0" class="fade" style="animation-delay:0.80s">KNIME</text>
+  <text x="0" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#e6edf3">Build</text>
+  <path d="M0.4,146.3 Q31.6,147.3 52.8,144.0" fill="none" stroke="#9b9bf5" stroke-width="2.2" stroke-linecap="round" pathLength="1" class="draw" style="animation-delay:0.85s;animation-duration:.6s"/>
+  <text x="170" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0" class="fade" style="animation-delay:1.15s">React</text>
+  <circle cx="237.9" cy="131" r="2.2" fill="#30363d"/>
+  <text x="250.852" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0" class="fade" style="animation-delay:1.15s">Next.js</text>
+  <circle cx="328.0" cy="131" r="2.2" fill="#30363d"/>
+  <text x="341.028" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0" class="fade" style="animation-delay:1.15s">Azure</text>
+  <circle cx="408.9" cy="131" r="2.2" fill="#30363d"/>
+  <text x="421.88" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0" class="fade" style="animation-delay:1.15s">Docker</text>
+</svg>
