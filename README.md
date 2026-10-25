@@ -31,59 +31,53 @@ I turn research pain points into AI products scientists rely on by framing the p
 ### Products I've helped ship
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/problems-dark.svg"/>
-  <img width="100%" src="assets/problems-light.svg" alt="The problem and what we shipped: DocuStore, ChemCellar, PARSNIP, CAGE-Fusion, DAIKON, DAIKON AI and Curator Studio"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/products-dark.svg"/>
+  <img width="100%" src="assets/products-light.svg" alt="Products: DocuStore, ChemCellar, PARSNIP, CAGE-Fusion, DAIKON, DAIKON AI and Curator Studio"/>
 </picture>
 
-<sub>Used by drug discovery teams in academic, nonprofit, and pharmaceutical organizations. Open a product for the story and my role.</sub>
+<sub>Used by drug discovery teams in academic, nonprofit, and pharmaceutical organizations. Open one for links and my role.</sub>
 
 <details>
-<summary><img src="assets/apps/docustore.svg" width="22" height="22" align="center" alt=""/>&nbsp; <b>DocuStore</b> &nbsp;<sub>ask a lab's papers a question, get a cited answer</sub></summary>
+<summary><img src="assets/apps/docustore.svg" width="22" height="22" align="center" alt=""/>&nbsp; <b>DocuStore</b> &nbsp;<sub>my role and links</sub></summary>
 <blockquote>
-A chemistry-aware document intelligence platform for drug discovery. Scientists ask questions across a lab's papers and slide decks and get answers cited to the source.<br/><br/>
 <b>My role</b> &nbsp;Co-first author. Built the multi-agent AI knowledge base that auto-sorted 1,500+ documents and cut manual curation time by 70%.<br/>
 <a href="https://docustore.io/">docustore.io</a> &nbsp;·&nbsp; <a href="https://doi.org/10.21203/rs.3.rs-11294579/v1">Publication</a>
 </blockquote>
 </details>
 
 <details>
-<summary><img src="assets/apps/chemcellar.svg" width="22" height="22" align="center" alt=""/>&nbsp; <b>ChemCellar</b> &nbsp;<sub>register molecules, run screens, decide what to make next</sub></summary>
+<summary><img src="assets/apps/chemcellar.svg" width="22" height="22" align="center" alt=""/>&nbsp; <b>ChemCellar</b> &nbsp;<sub>links</sub></summary>
 <blockquote>
-An open-source platform for compound registration, management, and screening. Research groups register molecules, run screening campaigns, and decide what to make next, on infrastructure they control.<br/><br/>
 <a href="https://www.chemcellar.com/">chemcellar.com</a>
 </blockquote>
 </details>
 
 <details>
-<summary><img src="assets/apps/parsnip.svg" width="22" height="22" align="center" alt=""/>&nbsp; <b>PARSNIP</b> &nbsp;<sub>rank tuberculosis drug targets the same way every time</sub></summary>
+<summary><img src="assets/apps/parsnip.svg" width="22" height="22" align="center" alt=""/>&nbsp; <b>PARSNIP</b> &nbsp;<sub>links</sub></summary>
 <blockquote>
-A tuberculosis protein assessment and ranking system. It brings together genetic, chemical, and feasibility evidence so teams can rank drug targets consistently.<br/><br/>
 <a href="https://parsnip-56158.web.app/">Live app</a> &nbsp;·&nbsp; <a href="https://doi.org/10.1038/s44321-026-00415-7">Publication</a>
 </blockquote>
 </details>
 
 <details>
-<summary><img src="assets/apps/cage-fusion.svg" width="22" height="22" align="center" alt=""/>&nbsp; <b>CAGE-Fusion</b> &nbsp;<sub>catch the false hits before they waste a week of assays</sub></summary>
+<summary><img src="assets/apps/cage-fusion.svg" width="22" height="22" align="center" alt=""/>&nbsp; <b>CAGE-Fusion</b> &nbsp;<sub>my role and links</sub></summary>
 <blockquote>
-A deep learning model that flags nuisance compounds, the false hits that waste early-stage assay work. It predicts aggregation, luciferase inhibition, chemical reactivity, and promiscuity.<br/><br/>
 <b>My role</b> &nbsp;Co-first author. Built the detection framework, which improved detection accuracy by 4%.<br/>
 <a href="https://studio.orca-03.biobio.tamu.edu/login">Live app</a> &nbsp;·&nbsp; <a href="https://doi.org/10.1186/s13321-026-01207-4">Publication</a> &nbsp;·&nbsp; <a href="https://github.com/sidxz/cage_fusion">GitHub</a> &nbsp;·&nbsp; <a href="https://doi.org/10.5281/zenodo.17118024">Dataset</a>
 </blockquote>
 </details>
 
 <details>
-<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/apps/daikon-dark.png"/><img src="assets/apps/daikon.png" width="22" height="22" align="center" alt=""/></picture>&nbsp; <b>DAIKON</b> &nbsp;<sub>one home for targets, screens, hits, and portfolios across 25+ orgs</sub></summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/apps/daikon-dark.png"/><img src="assets/apps/daikon.png" width="22" height="22" align="center" alt=""/></picture>&nbsp; <b>DAIKON</b> &nbsp;<sub>my role and links</sub></summary>
 <blockquote>
-An open-source platform for collaborative, target-based drug discovery. The <a href="https://www.tbdrugaccelerator.org">TB Drug Accelerator</a>, a Gates Foundation initiative with 25+ member organizations, has used it in production since 2022.<br/><br/>
 <b>My role</b> &nbsp;Led front-end design and development, and ran usability studies with 20+ stakeholders.<br/>
 <a href="https://saclab.github.io/daikon/">saclab.github.io/daikon</a> &nbsp;·&nbsp; <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/">Publication</a>
 </blockquote>
 </details>
 
 <details>
-<summary><img src="assets/apps/daikon-ai.svg" width="22" height="22" align="center" alt=""/>&nbsp; <b>DAIKON AI &amp; Curator Studio</b> &nbsp;<sub>the next generation, in closed user testing</sub></summary>
+<summary><img src="assets/apps/daikon-ai.svg" width="22" height="22" align="center" alt=""/>&nbsp; <b>DAIKON AI &amp; Curator Studio</b> &nbsp;<sub>my role and links</sub></summary>
 <blockquote>
-The next generation of DAIKON. It covers data curation, AI/ML prediction, analysis, and project management across early discovery, from genes and targets through screening, hit assessment, and portfolio.<br/><br/>
 <b>My role</b> &nbsp;Product and front-end.
 </blockquote>
 </details>
