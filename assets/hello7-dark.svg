@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="214" viewBox="0 0 1200 214" role="img" aria-label="Hi, I'm Saswati. I'm an AI product builder, currently building open-source products in the life sciences and pharmaceutical domain. I like doodling sometimes, too.">
+  <style>
+    .draw { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 2.4s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0 } }
+    .fade { opacity: 0; animation: fade 1.2s ease-out forwards; }
+    @keyframes fade { to { opacity: 1 } }
+    .breathe { animation: breathe 3.6s ease-in-out infinite; }
+    @keyframes breathe { 0%,100% { opacity: 1 } 50% { opacity: .35 } }</style>
+  <text x="40" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="60" font-weight="600" letter-spacing="-1" fill="#e6edf3" class="fade">Hi, I&#8217;m Saswati</text>
+  <text x="42" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0" class="fade" style="animation-delay:.3s">I&#8217;m an AI product builder, currently building open-source products in</text>
+  <text x="42" y="176" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0" class="fade" style="animation-delay:.3s">the life sciences and pharmaceutical domain. I like doodling sometimes, too.</text>
+  <g fill="none" stroke="#8d96a0" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M930.7,93.5 Q929.4,112.2 930.8,126.5" pathLength="1" class="draw" opacity="1" style="animation-delay:0.10s;animation-duration:.6s"/>
+    <path d="M929.4,97.3 Q930.0,112.4 928.1,130.8" pathLength="1" class="draw" opacity="0.4" style="animation-delay:0.20s;animation-duration:.6s"/>
+    <path d="M927.6,123.1 Q942.3,134.2 955.5,140.9" pathLength="1" class="draw" opacity="1" style="animation-delay:0.22s;animation-duration:.6s"/>
+    <path d="M929.9,126.2 Q945.7,135.6 956.2,144.7" pathLength="1" class="draw" opacity="0.4" style="animation-delay:0.32s;animation-duration:.6s"/>
+    <path d="M971.6,139.2 Q990.8,132.4 1000.8,124.4" pathLength="1" class="draw" opacity="1" style="animation-delay:0.34s;animation-duration:.6s"/>
+    <path d="M972.2,142.0 Q988.5,131.6 1001.3,126.6" pathLength="1" class="draw" opacity="0.4" style="animation-delay:0.44s;animation-duration:.6s"/>
+    <path d="M999.0,88.5 Q978.7,75.1 963.5,63.7" pathLength="1" class="draw" opacity="1" style="animation-delay:0.46s;animation-duration:.6s"/>
+    <path d="M1000.6,87.4 Q984.9,78.4 965.4,65.5" pathLength="1" class="draw" opacity="0.4" style="animation-delay:0.56s;animation-duration:.6s"/>
+    <path d="M968.6,67.5 Q954.3,70.3 938.0,82.8" pathLength="1" class="draw" opacity="1" style="animation-delay:0.58s;animation-duration:.6s"/>
+    <path d="M964.3,64.2 Q953.9,72.1 936.2,81.5" pathLength="1" class="draw" opacity="0.4" style="animation-delay:0.68s;animation-duration:.6s"/>
+    <path d="M998.5,86.7 Q1017.7,81.2 1031.4,74.8" pathLength="1" class="draw" opacity="1" style="animation-delay:0.70s;animation-duration:.6s"/>
+    <path d="M997.5,88.8 Q1012.8,80.4 1030.9,76.6" pathLength="1" class="draw" opacity="0.4" style="animation-delay:0.80s;animation-duration:.6s"/>
+    <path d="M1045.8,82.3 Q1050.1,91.9 1063.2,106.2" pathLength="1" class="draw" opacity="1" style="animation-delay:0.82s;animation-duration:.6s"/>
+    <path d="M1042.1,82.3 Q1050.4,89.9 1061.0,106.4" pathLength="1" class="draw" opacity="0.4" style="animation-delay:0.92s;animation-duration:.6s"/>
+    <path d="M1027.0,134.8 Q1009.9,128.8 996.4,127.7" pathLength="1" class="draw" opacity="1" style="animation-delay:0.94s;animation-duration:.6s"/>
+    <path d="M1030.2,133.1 Q1018.1,131.6 1001.6,127.8" pathLength="1" class="draw" opacity="0.4" style="animation-delay:1.04s;animation-duration:.6s"/>
+    <path d="M923.9,83.9 Q913.1,75.3 906.2,73.1" pathLength="1" class="draw" opacity="1" style="animation-delay:1.06s;animation-duration:.6s"/>
+    <path d="M925.5,82.4 Q912.3,75.3 906.0,72.9" pathLength="1" class="draw" opacity="0.4" style="animation-delay:1.16s;animation-duration:.6s"/>
+    <path d="M964.4,155.1 Q965.4,166.2 965.7,178.4" pathLength="1" class="draw" opacity="1" style="animation-delay:1.18s;animation-duration:.6s"/>
+    <path d="M965.4,156.6 Q965.9,164.9 966.3,174.6" pathLength="1" class="draw" opacity="0.4" style="animation-delay:1.28s;animation-duration:.6s"/>
+    <path d="M1040.2,67.7 Q1042.0,56.8 1044.1,47.2" pathLength="1" class="draw" opacity="1" style="animation-delay:1.30s;animation-duration:.6s"/>
+    <path d="M1040.9,67.1 Q1045.3,54.4 1047.4,46.2" pathLength="1" class="draw" opacity="0.4" style="animation-delay:1.40s;animation-duration:.6s"/>
+    <path d="M999.1,126.5 Q1001.1,103.5 999.6,85.7" pathLength="1" class="draw" opacity="1" style="animation-delay:1.42s;animation-duration:.6s"/>
+    <path d="M998.0,126.0 Q1000.7,108.2 999.2,84.4" pathLength="1" class="draw" opacity="0.4" style="animation-delay:1.52s;animation-duration:.6s"/>
+    <path d="M1062.4,103.5 Q1052.6,116.2 1040.0,132.1" pathLength="1" class="draw" opacity="1" style="animation-delay:1.54s;animation-duration:.6s"/>
+    <path d="M1059.4,102.7 Q1051.8,119.2 1041.0,128.3" pathLength="1" class="draw" opacity="0.4" style="animation-delay:1.64s;animation-duration:.6s"/>
+    <path d="M1005.9,121.9 Q1005.1,109.8 1003.6,91.1" pathLength="1" class="draw" opacity="1" style="animation-delay:1.66s;animation-duration:.6s"/>
+    <path d="M1052.4,106.1 Q1047.8,114.1 1042.0,124.5" pathLength="1" class="draw" opacity="1" style="animation-delay:1.78s;animation-duration:.6s"/>
+    <path d="M960.1,68.5 Q962.3,57.7 962.0,49.1" pathLength="1" class="draw" opacity="1" style="animation-delay:1.90s;animation-duration:.6s"/>
+    <path d="M969.3,67.2 Q968.2,56.2 966.3,48.5" pathLength="1" class="draw" opacity="1" style="animation-delay:1.90s;animation-duration:.6s"/>
+    <path d="M934.0,130.1 Q922.5,134.1 916.9,139.7" pathLength="1" class="draw" opacity="1" style="animation-delay:2.02s;animation-duration:.6s"/>
+    <path d="M928.8,124.5 Q920.1,129.5 910.4,131.0" pathLength="1" class="draw" opacity="1" style="animation-delay:2.02s;animation-duration:.6s"/>
+  </g>
+  <text x="930.4" y="92.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">N</text>
+  <text x="965.0" y="152.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">N</text>
+  <text x="1037.7" y="79.6" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">N</text>
+  <text x="1037.7" y="144.4" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">N</text>
+  <text x="965.0" y="44.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">O</text>
+  <text x="906.1" y="146.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">O</text>
+  <circle cx="1046.3" cy="47.0" r="3.5" fill="#9b9bf5" class="fade breathe" style="animation-delay:2.54s"/>
+  <text x="1013.6" y="176.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#8d96a0" class="fade" style="animation-delay:2.74s">caffeine</text>
+  <line x1="40" y1="206" x2="1160" y2="206" stroke="#30363d"/>
+</svg>
