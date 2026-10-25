@@ -7,7 +7,7 @@
 
 <br/>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-pub-dark.svg"/><img src="assets/h-pub-light.svg" height="60" alt="Published"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-publications-dark.svg"/><img src="assets/h-publications-light.svg" height="60" alt="Publications"/></picture>
 
 <p>
 <a href="https://doi.org/10.21203/rs.3.rs-11294579/v1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/paper-g1-dark.svg"/><img src="assets/paper-g1-light.svg" width="100%" alt="DocuStore: Domain-constrained retrieval-augmented generation for drug discovery documents. Preprint, 2026"/></picture></a><a href="https://doi.org/10.1186/s13321-026-01207-4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/paper-g2-dark.svg"/><img src="assets/paper-g2-light.svg" width="100%" alt="CAGE-Fusion: Deep learning for assay nuisance compound detection using a gated co-attention graph embedding model. Journal of Cheminformatics, 2026"/></picture></a><a href="https://doi.org/10.1038/s44321-026-00415-7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/paper-g3-dark.svg"/><img src="assets/paper-g3-light.svg" width="100%" alt="Integrating chemical, genetic, and feasibility assessments for anti-tubercular target validation. EMBO Molecular Medicine, 2025"/></picture></a><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/paper-g4-dark.svg"/><img src="assets/paper-g4-light.svg" width="100%" alt="DAIKON: A data acquisition, integration, and knowledge capture web application for target-based drug discovery. ACS Pharmacology and Translational Science, 2023"/></picture></a>
