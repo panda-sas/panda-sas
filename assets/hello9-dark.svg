@@ -6,10 +6,10 @@
     @keyframes fade { to { opacity: 1 } }
     .breathe { animation: breathe 3.6s ease-in-out infinite; }
     @keyframes breathe { 0%,100% { opacity: 1 } 50% { opacity: .35 } }</style>
-  <text x="40" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="60" font-weight="600" letter-spacing="-1" fill="#1f2328" class="fade">Hi, I&#8217;m Saswati</text>
-  <text x="42" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#656d76" class="fade" style="animation-delay:.3s">I&#8217;m an AI product builder, currently building open-source products in</text>
-  <text x="42" y="176" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#656d76" class="fade" style="animation-delay:.3s">the life sciences and pharmaceutical domain. I like doodling sometimes, too.</text>
-  <g fill="none" stroke="#656d76" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+  <text x="40" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="60" font-weight="600" letter-spacing="-1" fill="#e6edf3" class="fade">Hi, I&#8217;m Saswati</text>
+  <text x="42" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0" class="fade" style="animation-delay:.3s">I&#8217;m an AI product builder, currently building open-source products in</text>
+  <text x="42" y="176" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8d96a0" class="fade" style="animation-delay:.3s">the life sciences and pharmaceutical domain. I like doodling sometimes, too.</text>
+  <g fill="none" stroke="#8d96a0" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
     <path d="M930.7,93.5 Q929.4,112.2 930.8,126.5" pathLength="1" class="draw" opacity="1" style="animation-delay:0.10s;animation-duration:.6s"/>
     <path d="M929.4,97.3 Q930.0,112.4 928.1,130.8" pathLength="1" class="draw" opacity="0.4" style="animation-delay:0.20s;animation-duration:.6s"/>
     <path d="M927.6,123.1 Q942.3,134.2 955.5,140.9" pathLength="1" class="draw" opacity="1" style="animation-delay:0.22s;animation-duration:.6s"/>
@@ -43,15 +43,26 @@
     <path d="M934.6,131.6 Q923.1,135.2 918.0,140.8" pathLength="1" class="draw" opacity="1" style="animation-delay:2.02s;animation-duration:.6s"/>
     <path d="M928.0,123.5 Q919.2,128.0 910.0,129.5" pathLength="1" class="draw" opacity="1" style="animation-delay:2.02s;animation-duration:.6s"/>
   </g>
-  <text x="930.4" y="92.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#656d76" class="fade" style="animation-delay:2.14s">N</text>
-  <text x="965.0" y="152.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#656d76" class="fade" style="animation-delay:2.14s">N</text>
-  <text x="1037.7" y="79.6" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#656d76" class="fade" style="animation-delay:2.14s">N</text>
-  <text x="1037.7" y="144.4" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#656d76" class="fade" style="animation-delay:2.14s">N</text>
-  <text x="965.0" y="44.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#656d76" class="fade" style="animation-delay:2.14s">O</text>
-  <text x="906.1" y="146.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#656d76" class="fade" style="animation-delay:2.14s">O</text>
-  <text x="901.7" y="71.0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#656d76" class="fade" style="animation-delay:2.14s">CH<tspan font-size="11" dy="3">3</tspan></text>
-  <text x="965.0" y="194.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#656d76" class="fade" style="animation-delay:2.14s">CH<tspan font-size="11" dy="3">3</tspan></text>
-  <text x="1044.0" y="40.6" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#656d76" class="fade" style="animation-delay:2.14s">CH<tspan font-size="11" dy="3">3</tspan></text>
-  <text x="1065.2" y="194.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#656d76" class="fade" style="animation-delay:2.74s">caffeine</text>
-  <line x1="40" y1="206" x2="1160" y2="206" stroke="#d0d7de"/>
+  <text x="930.4" y="92.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">N</text>
+  <text x="965.0" y="152.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">N</text>
+  <text x="1037.7" y="79.6" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">N</text>
+  <text x="1037.7" y="144.4" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">N</text>
+  <text x="965.0" y="44.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">O</text>
+  <text x="906.1" y="146.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">O</text>
+  <text x="901.7" y="71.0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">CH<tspan font-size="11" dy="3">3</tspan></text>
+  <text x="965.0" y="194.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">CH<tspan font-size="11" dy="3">3</tspan></text>
+  <text x="1044.0" y="40.6" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">CH<tspan font-size="11" dy="3">3</tspan></text>
+  <g fill="none" stroke="#8d96a0" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1091.4,96.1 Q1091.9,119.5 1094.2,133.8" pathLength="1" class="draw" style="animation-delay:2.34s;animation-duration:.5s"/>
+    <path d="M1093,132 Q1108,139 1123,132" pathLength="1" class="draw" style="animation-delay:2.49s;animation-duration:.5s"/>
+    <path d="M1120.8,132.4 Q1124.9,111.5 1127.2,97.5" pathLength="1" class="draw" style="animation-delay:2.64s;animation-duration:.5s"/>
+    <path d="M1086.9,100.0 Q1108.9,97.9 1130.1,99.2" pathLength="1" class="draw" style="animation-delay:2.79s;animation-duration:.5s"/>
+    <path d="M1125,106 C1139,104 1139,124 1123.5,122" pathLength="1" class="draw" style="animation-delay:2.94s;animation-duration:.5s"/>
+  </g>
+  <g fill="none" stroke="#f4a261" stroke-width="2" stroke-linecap="round" class="breathe" style="animation-duration:3s">
+    <path d="M1100.0,92.0 L1101.9,90.0 L1103.0,88.0 L1103.1,86.0 L1101.9,84.0 L1100.1,82.0 L1098.2,80.0 L1097.0,78.0 L1096.9,76.0 L1098.0,74.0" pathLength="1" class="draw" style="animation-delay:3.24s;animation-duration:.7s"/>
+    <path d="M1114.7,92.0 L1115.2,90.0 L1114.5,88.0 L1112.8,86.0 L1110.9,84.0 L1109.3,82.0 L1108.8,80.0 L1109.5,78.0 L1111.1,76.0 L1113.1,74.0" pathLength="1" class="draw" style="animation-delay:3.44s;animation-duration:.7s"/>
+  </g>
+  <text x="1112" y="164" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-style="italic" fill="#8d96a0" class="fade" style="animation-delay:3.54s">morning essential</text>
+  <line x1="40" y1="206" x2="1160" y2="206" stroke="#30363d"/>
 </svg>
