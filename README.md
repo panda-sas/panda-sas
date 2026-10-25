@@ -76,8 +76,8 @@ Used by drug discovery teams in academic, nonprofit, and pharmaceutical organiza
 ### Toolkit
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-paint-dark.svg"/>
-  <img width="100%" src="assets/toolkit-paint-light.svg" alt="Toolkit. Product: User Research, Roadmapping, KPI Design, Agile / Scrum, Figma, Confluence, Tableau. AI / Data: Python, LangChain, Hugging Face, scikit-learn, SQL, KNIME. Build: React, Next.js, Azure, Docker."/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-loop-dark.svg"/>
+  <img width="100%" src="assets/toolkit-loop-light.svg" alt="Toolkit. Product: User Research, Roadmapping, KPI Design, Agile / Scrum, Figma, Confluence, Tableau. AI / Data: Python, LangChain, Hugging Face, scikit-learn, SQL, KNIME. Build: React, Next.js, Azure, Docker."/>
 </picture>
 
 <br/>
