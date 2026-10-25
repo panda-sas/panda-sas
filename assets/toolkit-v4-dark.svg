@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="371" viewBox="0 0 1200 371" role="img" aria-label="Toolkit. AI &amp; Scientific Systems: Agentic AI, LLM-based Vector Retrieval, Knowledge Graphs, Generative AI, RAG, Prompt Engineering, Deep Learning Models, LangChain, Hugging Face, Scikit-learn, SQL, NoSQL; Platforms &amp; Tooling: Jupyter, VS Code, Python, Figma, JIRA, Confluence, Miro, KNIME, Benchling, Smartsheet; Prototyping &amp; Coding: Lovable, Replit, Vercel, Cursor, Codex, Claude Code; Product: Requirements Definition, Project &amp; Milestone Planning, Stakeholder Alignment, Pilot-to-Production Transition, Cross-functional Coordination, Agile / Scrum, Product Roadmapping, KPI Development, Market Research, Stakeholder Collaboration">
+  <defs>
+    <filter id="wc0" x="-5%" y="-60%" width="110%" height="220%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.03 0.11" numOctaves="3" seed="4" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="11" xChannelSelector="R" yChannelSelector="G" result="d"/>
+      <feGaussianBlur in="d" stdDeviation="1.1"/>
+    </filter>
+    <clipPath id="cp0"><rect x="220" y="0" height="50" width="0">
+      <animate attributeName="width" values="0;652;652" keyTimes="0;.12;1" calcMode="spline" keySplines=".3 .1 .3 1;0 0 1 1" begin="1.20s" dur="12s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <filter id="wc1" x="-5%" y="-60%" width="110%" height="220%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.03 0.11" numOctaves="3" seed="17" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="11" xChannelSelector="R" yChannelSelector="G" result="d"/>
+      <feGaussianBlur in="d" stdDeviation="1.1"/>
+    </filter>
+    <clipPath id="cp1"><rect x="220" y="36" height="50" width="0">
+      <animate attributeName="width" values="0;719;719" keyTimes="0;.12;1" calcMode="spline" keySplines=".3 .1 .3 1;0 0 1 1" begin="1.75s" dur="12s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <filter id="wc2" x="-5%" y="-60%" width="110%" height="220%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.03 0.11" numOctaves="3" seed="30" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="11" xChannelSelector="R" yChannelSelector="G" result="d"/>
+      <feGaussianBlur in="d" stdDeviation="1.1"/>
+    </filter>
+    <clipPath id="cp2"><rect x="220" y="72" height="50" width="0">
+      <animate attributeName="width" values="0;633;633" keyTimes="0;.12;1" calcMode="spline" keySplines=".3 .1 .3 1;0 0 1 1" begin="2.30s" dur="12s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <filter id="wc3" x="-5%" y="-60%" width="110%" height="220%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.03 0.11" numOctaves="3" seed="43" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="11" xChannelSelector="R" yChannelSelector="G" result="d"/>
+      <feGaussianBlur in="d" stdDeviation="1.1"/>
+    </filter>
+    <clipPath id="cp3"><rect x="220" y="118" height="50" width="0">
+      <animate attributeName="width" values="0;515;515" keyTimes="0;.12;1" calcMode="spline" keySplines=".3 .1 .3 1;0 0 1 1" begin="2.85s" dur="12s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <filter id="wc4" x="-5%" y="-60%" width="110%" height="220%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.03 0.11" numOctaves="3" seed="56" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="11" xChannelSelector="R" yChannelSelector="G" result="d"/>
+      <feGaussianBlur in="d" stdDeviation="1.1"/>
+    </filter>
+    <clipPath id="cp4"><rect x="220" y="154" height="50" width="0">
+      <animate attributeName="width" values="0;601;601" keyTimes="0;.12;1" calcMode="spline" keySplines=".3 .1 .3 1;0 0 1 1" begin="3.40s" dur="12s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <filter id="wc5" x="-5%" y="-60%" width="110%" height="220%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.03 0.11" numOctaves="3" seed="69" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="11" xChannelSelector="R" yChannelSelector="G" result="d"/>
+      <feGaussianBlur in="d" stdDeviation="1.1"/>
+    </filter>
+    <clipPath id="cp5"><rect x="220" y="200" height="50" width="0">
+      <animate attributeName="width" values="0;652;652" keyTimes="0;.12;1" calcMode="spline" keySplines=".3 .1 .3 1;0 0 1 1" begin="3.95s" dur="12s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <filter id="wc6" x="-5%" y="-60%" width="110%" height="220%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.03 0.11" numOctaves="3" seed="82" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="11" xChannelSelector="R" yChannelSelector="G" result="d"/>
+      <feGaussianBlur in="d" stdDeviation="1.1"/>
+    </filter>
+    <clipPath id="cp6"><rect x="220" y="247" height="50" width="0">
+      <animate attributeName="width" values="0;813;813" keyTimes="0;.12;1" calcMode="spline" keySplines=".3 .1 .3 1;0 0 1 1" begin="4.50s" dur="12s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <filter id="wc7" x="-5%" y="-60%" width="110%" height="220%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.03 0.11" numOctaves="3" seed="95" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="11" xChannelSelector="R" yChannelSelector="G" result="d"/>
+      <feGaussianBlur in="d" stdDeviation="1.1"/>
+    </filter>
+    <clipPath id="cp7"><rect x="220" y="283" height="50" width="0">
+      <animate attributeName="width" values="0;783;783" keyTimes="0;.12;1" calcMode="spline" keySplines=".3 .1 .3 1;0 0 1 1" begin="5.05s" dur="12s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <filter id="wc8" x="-5%" y="-60%" width="110%" height="220%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.03 0.11" numOctaves="3" seed="108" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="11" xChannelSelector="R" yChannelSelector="G" result="d"/>
+      <feGaussianBlur in="d" stdDeviation="1.1"/>
+    </filter>
+    <clipPath id="cp8"><rect x="220" y="319" height="50" width="0">
+      <animate attributeName="width" values="0;912;912" keyTimes="0;.12;1" calcMode="spline" keySplines=".3 .1 .3 1;0 0 1 1" begin="5.60s" dur="12s" repeatCount="indefinite"/>
+    </rect></clipPath>
+  </defs>
+  <style>
+    .draw { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 2.4s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0 } }
+    .fade { opacity: 0; animation: fade 1.2s ease-out forwards; }
+    @keyframes fade { to { opacity: 1 } }
+    .breathe { animation: breathe 3.6s ease-in-out infinite; }
+    @keyframes breathe { 0%,100% { opacity: 1 } 50% { opacity: .35 } }</style>
+  <text x="0" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#e6edf3">AI &amp; Scientific Systems</text>
+  <path d="M-2.7,38.6 Q100.9,36.7 213.0,35.9" fill="none" stroke="#9b9bf5" stroke-width="2.2" stroke-linecap="round" pathLength="1" class="draw" style="animation-delay:0.30s;animation-duration:.6s"/>
+  <g clip-path="url(#cp0)"><g filter="url(#wc0)">
+    <animate attributeName="opacity" values="1;1;0" keyTimes="0;.9;1" begin="1.20s" dur="12s" repeatCount="indefinite"/>
+    <path d="M234.0,13.8 L255.6,12.5 L277.3,11.7 L298.9,11.9 L320.6,10.6 L342.2,11.1 L363.9,10.8 L385.5,11.1 L407.2,10.4 L428.8,10.3 L450.5,10.1 L472.1,10.8 L493.8,10.7 L515.4,10.8 L537.1,11.4 L558.7,10.9 L580.4,10.8 L602.0,10.5 L623.7,10.2 L645.3,10.2 L667.0,9.1 L688.6,9.5 L710.3,9.4 L731.9,10.0 L753.6,10.2 L775.2,10.9 L796.8,12.0 L818.5,14.2 L840.1,20.6 L840.1,20.6 L818.5,27.6 L796.8,29.5 L775.2,31.5 L753.6,32.3 L731.9,33.6 L710.3,33.4 L688.6,33.9 L667.0,34.9 L645.3,34.8 L623.7,35.1 L602.0,35.6 L580.4,35.0 L558.7,35.1 L537.1,35.4 L515.4,36.1 L493.8,36.3 L472.1,36.4 L450.5,35.8 L428.8,36.1 L407.2,36.6 L385.5,36.7 L363.9,35.8 L342.2,37.0 L320.6,36.3 L298.9,36.9 L277.3,36.9 L255.6,36.1 L234.0,36.3 Z" fill="#2bb3a3" fill-opacity="0.17" stroke="#2bb3a3" stroke-opacity="0.15" stroke-width="1.6"/>
+    <path d="M244.0,17.8 L260.3,17.4 L276.5,17.2 L292.8,16.8 L309.1,15.9 L325.3,16.1 L341.6,15.5 L357.9,15.6 L374.2,14.9 L390.4,15.0 L406.7,15.0 L423.0,14.9 L439.2,14.7 L455.5,15.0 L471.8,15.5 L488.0,15.7 L504.3,16.3 L520.6,16.3 L536.9,17.2 L553.1,17.7 L569.4,17.7 L585.7,18.2 L601.9,19.0 L618.2,19.1 L634.5,19.5 L650.7,20.1 L667.0,20.4 L683.3,21.3 L699.6,24.8 L699.6,24.8 L683.3,28.3 L667.0,29.4 L650.7,29.5 L634.5,29.9 L618.2,30.6 L601.9,30.7 L585.7,30.7 L569.4,30.6 L553.1,31.1 L536.9,30.8 L520.6,31.2 L504.3,30.9 L488.0,30.7 L471.8,30.8 L455.5,31.2 L439.2,30.8 L423.0,31.6 L406.7,31.7 L390.4,31.0 L374.2,31.6 L357.9,31.0 L341.6,31.0 L325.3,31.6 L309.1,31.1 L292.8,31.0 L276.5,30.8 L260.3,30.2 L244.0,30.2 Z" fill="#2bb3a3" fill-opacity="0.10"/>
+  </g></g>
+  <text x="250" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="500" fill="#e6edf3">Agentic AI<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>LLM-based Vector Retrieval<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>Knowledge Graphs</text>
+  <g clip-path="url(#cp1)"><g filter="url(#wc1)">
+    <animate attributeName="opacity" values="1;1;0" keyTimes="0;.9;1" begin="1.75s" dur="12s" repeatCount="indefinite"/>
+    <path d="M234.0,49.6 L258.0,48.0 L282.0,47.4 L306.1,46.8 L330.1,45.9 L354.1,45.0 L378.1,44.9 L402.2,43.3 L426.2,43.8 L450.2,44.0 L474.2,43.7 L498.3,44.0 L522.3,44.5 L546.3,44.6 L570.3,44.2 L594.4,45.6 L618.4,46.2 L642.4,45.9 L666.4,47.1 L690.5,47.2 L714.5,48.6 L738.5,48.6 L762.5,48.7 L786.6,48.9 L810.6,50.1 L834.6,50.3 L858.6,51.7 L882.7,52.9 L906.7,58.9 L906.7,58.9 L882.7,64.3 L858.6,65.9 L834.6,66.7 L810.6,67.5 L786.6,67.9 L762.5,69.1 L738.5,69.5 L714.5,70.0 L690.5,70.2 L666.4,71.5 L642.4,71.8 L618.4,71.7 L594.4,72.9 L570.3,72.5 L546.3,74.0 L522.3,74.0 L498.3,73.7 L474.2,74.3 L450.2,73.9 L426.2,74.3 L402.2,74.4 L378.1,73.7 L354.1,73.9 L330.1,72.8 L306.1,73.1 L282.0,72.0 L258.0,70.8 L234.0,70.6 Z" fill="#2bb3a3" fill-opacity="0.17" stroke="#2bb3a3" stroke-opacity="0.15" stroke-width="1.6"/>
+    <path d="M244.0,56.5 L259.3,55.9 L274.6,55.4 L289.9,55.1 L305.1,54.5 L320.4,54.0 L335.7,53.5 L351.0,52.9 L366.3,52.0 L381.6,52.0 L396.9,52.0 L412.2,51.2 L427.4,51.4 L442.7,51.7 L458.0,51.4 L473.3,51.8 L488.6,52.0 L503.9,51.8 L519.2,52.3 L534.4,52.1 L549.7,52.5 L565.0,52.8 L580.3,53.0 L595.6,53.4 L610.9,53.6 L626.2,53.6 L641.5,54.1 L656.7,54.8 L672.0,57.8 L672.0,57.8 L656.7,61.8 L641.5,63.2 L626.2,63.9 L610.9,64.7 L595.6,65.4 L580.3,66.1 L565.0,66.3 L549.7,66.6 L534.4,66.6 L519.2,66.7 L503.9,67.3 L488.6,67.1 L473.3,67.8 L458.0,67.8 L442.7,67.6 L427.4,67.8 L412.2,67.7 L396.9,67.6 L381.6,68.0 L366.3,68.3 L351.0,67.9 L335.7,68.2 L320.4,68.5 L305.1,67.9 L289.9,68.0 L274.6,68.0 L259.3,68.5 L244.0,68.4 Z" fill="#2bb3a3" fill-opacity="0.10"/>
+  </g></g>
+  <text x="250" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="500" fill="#e6edf3">Generative AI<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>RAG<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>Prompt Engineering<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>Deep Learning Models</text>
+  <g clip-path="url(#cp2)"><g filter="url(#wc2)">
+    <animate attributeName="opacity" values="1;1;0" keyTimes="0;.9;1" begin="2.30s" dur="12s" repeatCount="indefinite"/>
+    <path d="M234.0,84.6 L255.0,83.5 L275.9,83.5 L296.9,82.0 L317.9,81.0 L338.9,81.8 L359.8,81.1 L380.8,80.1 L401.8,81.2 L422.8,80.8 L443.7,80.9 L464.7,81.8 L485.7,82.0 L506.7,81.4 L527.6,82.9 L548.6,82.9 L569.6,82.5 L590.6,83.3 L611.5,83.1 L632.5,83.9 L653.5,82.8 L674.5,83.3 L695.4,83.4 L716.4,84.1 L737.4,83.7 L758.4,84.3 L779.3,85.8 L800.3,87.4 L821.3,93.8 L821.3,93.8 L800.3,100.1 L779.3,101.3 L758.4,102.9 L737.4,103.6 L716.4,103.7 L695.4,104.0 L674.5,105.3 L653.5,105.8 L632.5,105.2 L611.5,106.1 L590.6,106.9 L569.6,107.2 L548.6,106.8 L527.6,107.8 L506.7,108.8 L485.7,108.7 L464.7,109.3 L443.7,109.7 L422.8,109.4 L401.8,109.4 L380.8,109.6 L359.8,110.3 L338.9,110.5 L317.9,110.1 L296.9,109.8 L275.9,109.6 L255.0,108.5 L234.0,108.4 Z" fill="#2bb3a3" fill-opacity="0.17" stroke="#2bb3a3" stroke-opacity="0.15" stroke-width="1.6"/>
+    <path d="M244.0,87.2 L258.1,86.9 L272.3,86.7 L286.4,86.4 L300.6,86.4 L314.7,86.8 L328.9,87.1 L343.0,86.7 L357.2,86.9 L371.3,87.6 L385.5,88.0 L399.6,88.3 L413.8,88.1 L427.9,88.9 L442.1,89.1 L456.2,89.2 L470.4,89.7 L484.5,89.8 L498.7,89.9 L512.8,89.9 L527.0,90.2 L541.1,90.2 L555.3,90.4 L569.4,90.7 L583.6,91.0 L597.7,91.7 L611.9,92.5 L626.0,93.9 L640.2,97.8 L640.2,97.8 L626.0,100.9 L611.9,101.6 L597.7,102.3 L583.6,102.7 L569.4,102.8 L555.3,103.3 L541.1,103.7 L527.0,104.1 L512.8,104.5 L498.7,104.2 L484.5,105.0 L470.4,105.1 L456.2,105.2 L442.1,105.2 L427.9,104.9 L413.8,105.1 L399.6,104.4 L385.5,103.9 L371.3,104.2 L357.2,103.7 L343.0,103.1 L328.9,103.2 L314.7,102.6 L300.6,102.2 L286.4,101.7 L272.3,100.8 L258.1,100.0 L244.0,100.0 Z" fill="#2bb3a3" fill-opacity="0.10"/>
+  </g></g>
+  <text x="250" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="500" fill="#e6edf3">LangChain<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>Hugging Face<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>Scikit-learn<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>SQL<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>NoSQL</text>
+  <text x="0" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#e6edf3">Platforms &amp; Tooling</text>
+  <path d="M0.4,157.1 Q86.0,159.2 179.8,154.1" fill="none" stroke="#9b9bf5" stroke-width="2.2" stroke-linecap="round" pathLength="1" class="draw" style="animation-delay:0.80s;animation-duration:.6s"/>
+  <g clip-path="url(#cp3)"><g filter="url(#wc3)">
+    <animate attributeName="opacity" values="1;1;0" keyTimes="0;.9;1" begin="2.85s" dur="12s" repeatCount="indefinite"/>
+    <path d="M234.0,131.0 L250.7,131.0 L267.5,130.2 L284.2,129.5 L301.0,129.4 L317.7,128.9 L334.4,128.0 L351.2,128.5 L367.9,127.2 L384.6,126.4 L401.4,126.2 L418.1,126.5 L434.9,126.1 L451.6,125.1 L468.3,125.7 L485.1,126.1 L501.8,126.0 L518.5,126.2 L535.3,126.6 L552.0,128.1 L568.8,128.8 L585.5,129.3 L602.2,130.5 L619.0,131.2 L635.7,132.0 L652.4,133.2 L669.2,134.2 L685.9,136.0 L702.7,141.6 L702.7,141.6 L685.9,147.2 L669.2,148.8 L652.4,150.4 L635.7,151.5 L619.0,152.2 L602.2,153.1 L585.5,153.0 L568.8,154.7 L552.0,154.7 L535.3,155.7 L518.5,155.1 L501.8,155.8 L485.1,156.6 L468.3,156.7 L451.6,156.0 L434.9,156.5 L418.1,155.7 L401.4,155.7 L384.6,156.1 L367.9,155.1 L351.2,154.9 L334.4,153.9 L317.7,154.2 L301.0,152.7 L284.2,152.3 L267.5,151.7 L250.7,150.6 L234.0,150.1 Z" fill="#8b7cf6" fill-opacity="0.17" stroke="#8b7cf6" stroke-opacity="0.15" stroke-width="1.6"/>
+    <path d="M244.0,138.0 L256.2,137.3 L268.5,137.0 L280.7,137.0 L292.9,136.4 L305.2,135.8 L317.4,135.6 L329.6,134.8 L341.9,134.6 L354.1,134.2 L366.3,133.8 L378.6,133.4 L390.8,133.0 L403.0,133.3 L415.3,133.3 L427.5,132.9 L439.7,133.4 L452.0,133.5 L464.2,134.0 L476.4,134.2 L488.7,134.6 L500.9,134.9 L513.1,135.3 L525.4,135.6 L537.6,136.1 L549.8,136.8 L562.1,137.2 L574.3,137.9 L586.6,140.8 L586.6,140.8 L574.3,144.8 L562.1,145.9 L549.8,146.8 L537.6,147.3 L525.4,147.5 L513.1,147.9 L500.9,148.2 L488.7,148.8 L476.4,148.4 L464.2,148.7 L452.0,149.1 L439.7,149.3 L427.5,149.5 L415.3,149.4 L403.0,148.8 L390.8,149.5 L378.6,149.5 L366.3,149.7 L354.1,149.2 L341.9,149.5 L329.6,149.2 L317.4,149.8 L305.2,149.4 L292.9,149.6 L280.7,149.6 L268.5,149.6 L256.2,149.7 L244.0,149.6 Z" fill="#8b7cf6" fill-opacity="0.10"/>
+  </g></g>
+  <text x="250" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="500" fill="#e6edf3">Jupyter<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>VS Code<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>Python<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>Figma<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>JIRA</text>
+  <g clip-path="url(#cp4)"><g filter="url(#wc4)">
+    <animate attributeName="opacity" values="1;1;0" keyTimes="0;.9;1" begin="3.40s" dur="12s" repeatCount="indefinite"/>
+    <path d="M234.0,166.0 L253.8,166.4 L273.7,165.4 L293.5,165.1 L313.3,164.1 L333.1,163.5 L353.0,163.7 L372.8,163.2 L392.6,162.0 L412.4,162.2 L432.3,161.1 L452.1,161.1 L471.9,161.8 L491.7,160.6 L511.6,162.2 L531.4,161.6 L551.2,162.5 L571.0,163.6 L590.9,163.6 L610.7,164.2 L630.5,165.3 L650.3,165.8 L670.2,167.4 L690.0,168.3 L709.8,169.2 L729.6,169.8 L749.5,170.8 L769.3,172.5 L789.1,178.3 L789.1,178.3 L769.3,185.0 L749.5,186.6 L729.6,187.1 L709.8,188.5 L690.0,188.6 L670.2,188.8 L650.3,189.4 L630.5,188.8 L610.7,189.7 L590.9,188.8 L571.0,189.5 L551.2,189.5 L531.4,189.8 L511.6,188.9 L491.7,188.7 L471.9,189.7 L452.1,189.6 L432.3,188.8 L412.4,189.6 L392.6,189.4 L372.8,188.8 L353.0,188.6 L333.1,189.8 L313.3,189.2 L293.5,188.9 L273.7,189.0 L253.8,187.4 L234.0,187.1 Z" fill="#8b7cf6" fill-opacity="0.17" stroke="#8b7cf6" stroke-opacity="0.15" stroke-width="1.6"/>
+    <path d="M244.0,171.0 L258.9,170.5 L273.9,170.2 L288.8,170.5 L303.8,170.4 L318.7,170.1 L333.7,170.6 L348.6,170.6 L363.5,170.3 L378.5,170.3 L393.4,170.9 L408.4,170.5 L423.3,170.8 L438.3,170.8 L453.2,170.8 L468.1,170.7 L483.1,171.1 L498.0,170.9 L513.0,170.8 L527.9,170.8 L542.9,170.9 L557.8,171.0 L572.7,171.3 L587.7,171.6 L602.6,171.7 L617.6,172.5 L632.5,173.1 L647.5,174.3 L662.4,178.2 L662.4,178.2 L647.5,181.5 L632.5,182.8 L617.6,183.3 L602.6,183.8 L587.7,184.6 L572.7,184.8 L557.8,185.3 L542.9,186.0 L527.9,186.3 L513.0,186.4 L498.0,186.6 L483.1,186.8 L468.1,186.4 L453.2,186.7 L438.3,186.9 L423.3,186.6 L408.4,186.1 L393.4,185.9 L378.5,186.2 L363.5,185.6 L348.6,185.2 L333.7,185.4 L318.7,184.8 L303.8,184.5 L288.8,184.5 L273.9,184.1 L258.9,183.4 L244.0,183.1 Z" fill="#8b7cf6" fill-opacity="0.10"/>
+  </g></g>
+  <text x="250" y="184" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="500" fill="#e6edf3">Confluence<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>Miro<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>KNIME<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>Benchling<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>Smartsheet</text>
+  <text x="0" y="230" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#e6edf3">Prototyping &amp; Coding</text>
+  <path d="M-1.1,240.2 Q75.9,241.1 196.9,239.0" fill="none" stroke="#9b9bf5" stroke-width="2.2" stroke-linecap="round" pathLength="1" class="draw" style="animation-delay:1.30s;animation-duration:.6s"/>
+  <g clip-path="url(#cp5)"><g filter="url(#wc5)">
+    <animate attributeName="opacity" values="1;1;0" keyTimes="0;.9;1" begin="3.95s" dur="12s" repeatCount="indefinite"/>
+    <path d="M234.0,211.8 L255.6,211.8 L277.3,210.8 L298.9,210.8 L320.6,211.7 L342.2,211.7 L363.9,210.9 L385.5,210.2 L407.2,210.4 L428.8,210.1 L450.5,210.2 L472.1,209.9 L493.8,208.8 L515.4,209.0 L537.1,208.5 L558.7,209.0 L580.4,208.3 L602.0,208.9 L623.7,209.3 L645.3,208.8 L666.9,209.7 L688.6,209.8 L710.2,210.6 L731.9,211.4 L753.5,212.6 L775.2,214.1 L796.8,215.4 L818.5,217.2 L840.1,223.4 L840.1,223.4 L818.5,228.8 L796.8,231.0 L775.2,232.0 L753.5,233.5 L731.9,234.1 L710.2,235.3 L688.6,235.6 L666.9,236.6 L645.3,236.7 L623.7,237.4 L602.0,237.3 L580.4,237.7 L558.7,238.0 L537.1,239.1 L515.4,238.7 L493.8,238.2 L472.1,238.8 L450.5,237.9 L428.8,237.2 L407.2,237.3 L385.5,236.2 L363.9,235.9 L342.2,235.1 L320.6,235.1 L298.9,234.1 L277.3,233.6 L255.6,232.4 L234.0,232.1 Z" fill="#ef8fb1" fill-opacity="0.17" stroke="#ef8fb1" stroke-opacity="0.15" stroke-width="1.6"/>
+    <path d="M244.0,219.9 L259.3,219.4 L274.6,219.4 L289.8,219.5 L305.1,219.1 L320.4,219.0 L335.7,218.1 L350.9,217.7 L366.2,217.5 L381.5,217.7 L396.8,216.9 L412.1,216.2 L427.3,216.1 L442.6,215.8 L457.9,215.6 L473.2,215.2 L488.5,215.3 L503.7,215.3 L519.0,214.9 L534.3,215.3 L549.6,215.6 L564.8,215.8 L580.1,215.8 L595.4,216.5 L610.7,217.2 L626.0,217.4 L641.2,218.1 L656.5,219.0 L671.8,222.1 L671.8,222.1 L656.5,226.0 L641.2,226.8 L626.0,227.7 L610.7,228.1 L595.4,228.5 L580.1,229.0 L564.8,229.3 L549.6,229.9 L534.3,229.7 L519.0,230.1 L503.7,230.6 L488.5,230.7 L473.2,231.1 L457.9,230.9 L442.6,231.0 L427.3,231.7 L412.1,231.6 L396.8,232.3 L381.5,232.6 L366.2,232.4 L350.9,233.2 L335.7,233.0 L320.4,233.4 L305.1,233.0 L289.8,233.1 L274.6,232.8 L259.3,232.9 L244.0,232.8 Z" fill="#ef8fb1" fill-opacity="0.10"/>
+  </g></g>
+  <text x="250" y="230" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="500" fill="#e6edf3">Lovable<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>Replit<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>Vercel<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>Cursor<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>Codex<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>Claude Code</text>
+  <text x="0" y="277" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#e6edf3">Product</text>
+  <path d="M3.1,285.7 Q48.3,287.8 74.5,282.9" fill="none" stroke="#9b9bf5" stroke-width="2.2" stroke-linecap="round" pathLength="1" class="draw" style="animation-delay:1.80s;animation-duration:.6s"/>
+  <g clip-path="url(#cp6)"><g filter="url(#wc6)">
+    <animate attributeName="opacity" values="1;1;0" keyTimes="0;.9;1" begin="4.50s" dur="12s" repeatCount="indefinite"/>
+    <path d="M234.0,257.3 L261.4,257.0 L288.8,256.6 L316.2,257.3 L343.6,257.2 L370.9,257.1 L398.3,256.7 L425.7,256.8 L453.1,256.6 L480.5,256.7 L507.9,257.3 L535.3,256.1 L562.7,257.1 L590.1,256.6 L617.5,256.1 L644.8,256.2 L672.2,255.7 L699.6,256.3 L727.0,256.7 L754.4,256.2 L781.8,257.1 L809.2,257.2 L836.6,258.4 L864.0,259.4 L891.3,260.2 L918.7,261.9 L946.1,263.5 L973.5,265.5 L1000.9,271.7 L1000.9,271.7 L973.5,277.3 L946.1,278.7 L918.7,279.4 L891.3,280.3 L864.0,280.6 L836.6,280.4 L809.2,281.9 L781.8,281.9 L754.4,282.4 L727.0,282.7 L699.6,283.1 L672.2,283.2 L644.8,283.0 L617.5,283.7 L590.1,284.1 L562.7,284.3 L535.3,284.4 L507.9,284.6 L480.5,284.2 L453.1,284.4 L425.7,284.1 L398.3,283.6 L370.9,284.0 L343.6,283.5 L316.2,282.4 L288.8,282.2 L261.4,280.5 L234.0,280.0 Z" fill="#f4a261" fill-opacity="0.17" stroke="#f4a261" stroke-opacity="0.15" stroke-width="1.6"/>
+    <path d="M244.0,263.3 L265.0,263.1 L285.9,263.3 L306.9,262.9 L327.8,263.5 L348.8,263.1 L369.7,262.9 L390.7,263.5 L411.6,263.5 L432.6,263.7 L453.5,263.4 L474.5,263.6 L495.4,263.9 L516.4,263.8 L537.3,263.5 L558.3,264.0 L579.2,263.5 L600.2,263.2 L621.2,263.6 L642.1,263.8 L663.1,263.5 L684.0,263.8 L705.0,264.3 L725.9,264.6 L746.9,265.2 L767.8,265.7 L788.8,266.8 L809.7,268.0 L830.7,271.7 L830.7,271.7 L809.7,275.4 L788.8,276.4 L767.8,277.0 L746.9,277.6 L725.9,278.3 L705.0,278.5 L684.0,278.7 L663.1,279.5 L642.1,279.0 L621.2,279.3 L600.2,279.2 L579.2,279.3 L558.3,279.7 L537.3,279.0 L516.4,279.2 L495.4,278.6 L474.5,278.5 L453.5,278.1 L432.6,278.3 L411.6,278.2 L390.7,277.3 L369.7,277.6 L348.8,277.4 L327.8,276.5 L306.9,276.8 L285.9,276.5 L265.0,275.9 L244.0,275.9 Z" fill="#f4a261" fill-opacity="0.10"/>
+  </g></g>
+  <text x="250" y="277" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="500" fill="#e6edf3">Requirements Definition<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>Project &amp; Milestone Planning<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>Stakeholder Alignment</text>
+  <g clip-path="url(#cp7)"><g filter="url(#wc7)">
+    <animate attributeName="opacity" values="1;1;0" keyTimes="0;.9;1" begin="5.05s" dur="12s" repeatCount="indefinite"/>
+    <path d="M234.0,293.6 L260.3,292.6 L286.6,293.0 L313.0,292.3 L339.3,292.5 L365.6,292.1 L391.9,292.3 L418.2,292.4 L444.5,292.7 L470.9,293.0 L497.2,293.1 L523.5,293.6 L549.8,293.2 L576.1,293.9 L602.5,294.0 L628.8,293.4 L655.1,293.3 L681.4,292.8 L707.7,292.8 L734.1,292.8 L760.4,293.5 L786.7,293.1 L813.0,293.5 L839.3,294.4 L865.6,295.0 L892.0,296.7 L918.3,298.4 L944.6,300.0 L970.9,306.8 L970.9,306.8 L944.6,312.3 L918.3,313.7 L892.0,315.0 L865.6,316.0 L839.3,317.0 L813.0,317.7 L786.7,317.5 L760.4,318.1 L734.1,319.5 L707.7,319.8 L681.4,320.0 L655.1,321.3 L628.8,321.7 L602.5,320.8 L576.1,321.8 L549.8,321.0 L523.5,321.6 L497.2,321.1 L470.9,321.7 L444.5,321.2 L418.2,320.6 L391.9,320.0 L365.6,319.0 L339.3,318.9 L313.0,318.3 L286.6,317.2 L260.3,316.5 L234.0,315.4 Z" fill="#f4a261" fill-opacity="0.17" stroke="#f4a261" stroke-opacity="0.15" stroke-width="1.6"/>
+    <path d="M244.0,303.0 L263.2,302.1 L282.4,301.7 L301.5,300.7 L320.7,300.5 L339.9,300.2 L359.1,299.6 L378.3,299.4 L397.5,299.1 L416.6,298.5 L435.8,298.1 L455.0,298.3 L474.2,298.6 L493.4,298.6 L512.6,298.5 L531.7,299.1 L550.9,298.9 L570.1,299.8 L589.3,299.7 L608.5,300.1 L627.7,300.4 L646.8,300.1 L666.0,300.4 L685.2,300.7 L704.4,300.8 L723.6,301.4 L742.8,301.8 L761.9,302.4 L781.1,305.7 L781.1,305.7 L761.9,308.9 L742.8,310.0 L723.6,310.6 L704.4,310.9 L685.2,311.2 L666.0,312.0 L646.8,312.3 L627.7,312.4 L608.5,313.0 L589.3,313.8 L570.1,314.0 L550.9,314.5 L531.7,314.5 L512.6,314.5 L493.4,315.2 L474.2,315.2 L455.0,315.5 L435.8,315.9 L416.6,316.3 L397.5,316.2 L378.3,316.6 L359.1,316.3 L339.9,316.5 L320.7,316.0 L301.5,316.1 L282.4,315.3 L263.2,315.5 L244.0,315.1 Z" fill="#f4a261" fill-opacity="0.10"/>
+  </g></g>
+  <text x="250" y="313" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="500" fill="#e6edf3">Pilot-to-Production Transition<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>Cross-functional Coordination<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>Agile / Scrum</text>
+  <g clip-path="url(#cp8)"><g filter="url(#wc8)">
+    <animate attributeName="opacity" values="1;1;0" keyTimes="0;.9;1" begin="5.60s" dur="12s" repeatCount="indefinite"/>
+    <path d="M234.0,332.5 L264.9,332.2 L295.8,331.3 L326.7,330.8 L357.7,329.3 L388.6,329.5 L419.5,329.6 L450.4,328.9 L481.3,329.0 L512.2,329.0 L543.1,329.2 L574.1,330.0 L605.0,329.0 L635.9,329.7 L666.8,330.3 L697.7,329.9 L728.6,329.7 L759.5,330.2 L790.5,329.3 L821.4,329.6 L852.3,329.1 L883.2,328.5 L914.1,329.2 L945.0,329.7 L975.9,329.3 L1006.9,330.0 L1037.8,331.4 L1068.7,333.0 L1099.6,339.5 L1099.6,339.5 L1068.7,345.2 L1037.8,347.1 L1006.9,348.8 L975.9,350.0 L945.0,351.2 L914.1,352.1 L883.2,353.0 L852.3,353.7 L821.4,354.9 L790.5,354.9 L759.5,355.6 L728.6,357.2 L697.7,357.4 L666.8,357.5 L635.9,358.4 L605.0,358.0 L574.1,358.4 L543.1,358.6 L512.2,357.3 L481.3,358.0 L450.4,357.7 L419.5,357.3 L388.6,356.2 L357.7,355.9 L326.7,355.1 L295.8,355.4 L264.9,354.4 L234.0,353.7 Z" fill="#f4a261" fill-opacity="0.17" stroke="#f4a261" stroke-opacity="0.15" stroke-width="1.6"/>
+    <path d="M244.0,337.4 L261.3,337.2 L278.5,337.0 L295.8,336.5 L313.0,336.5 L330.3,336.5 L347.5,336.8 L364.8,336.3 L382.0,336.1 L399.3,335.9 L416.6,336.2 L433.8,336.2 L451.1,335.9 L468.3,335.2 L485.6,335.1 L502.8,334.8 L520.1,334.5 L537.3,334.7 L554.6,335.1 L571.8,334.5 L589.1,335.1 L606.4,335.2 L623.6,335.7 L640.9,335.8 L658.1,336.6 L675.4,337.3 L692.6,337.9 L709.9,338.9 L727.1,342.4 L727.1,342.4 L709.9,346.1 L692.6,347.3 L675.4,348.3 L658.1,348.9 L640.9,349.3 L623.6,350.1 L606.4,350.1 L589.1,350.7 L571.8,350.6 L554.6,351.3 L537.3,351.2 L520.1,351.4 L502.8,351.4 L485.6,351.2 L468.3,350.9 L451.1,350.6 L433.8,350.9 L416.6,350.7 L399.3,350.6 L382.0,350.6 L364.8,350.4 L347.5,350.0 L330.3,349.8 L313.0,349.9 L295.8,349.9 L278.5,349.3 L261.3,349.6 L244.0,349.4 Z" fill="#f4a261" fill-opacity="0.10"/>
+  </g></g>
+  <text x="250" y="349" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="500" fill="#e6edf3">Product Roadmapping<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>KPI Development<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>Market Research<tspan fill="#9b9bf5" fill-opacity=".75"> · </tspan>Stakeholder Collaboration</text>
+</svg>
