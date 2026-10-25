@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Hi, I'm Saswati. I'm an AI product builder in drug discovery.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Hi, I'm Saswati. I'm an AI product builder.">
   <style>
     .draw { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 2.4s ease-out forwards; }
     @keyframes draw { to { stroke-dashoffset: 0 } }
@@ -7,7 +7,7 @@
     .breathe { animation: breathe 3.6s ease-in-out infinite; }
     @keyframes breathe { 0%,100% { opacity: 1 } 50% { opacity: .35 } }</style>
   <text x="40" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="60" font-weight="600" letter-spacing="-1" fill="#1f2328" class="fade">Hi, I&#8217;m Saswati</text>
-  <text x="42" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#656d76" class="fade" style="animation-delay:.3s">I&#8217;m an AI product builder in drug discovery</text>
+  <text x="42" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#656d76" class="fade" style="animation-delay:.3s">I&#8217;m an AI product builder</text>
   <g fill="none" stroke="#656d76" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
     <path d="M1003.8,49.7 Q974.3,65.5 951.4,80.9" pathLength="1" class="draw" opacity="1" style="animation-delay:0.08s;animation-duration:.7s"/>
     <path d="M999.8,55.1 Q974.8,67.2 947.3,86.7" pathLength="1" class="draw" opacity="0.45" style="animation-delay:0.20s;animation-duration:.7s"/>

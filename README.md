@@ -1,11 +1,11 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hi-dark.svg"/>
-  <img width="100%" src="assets/hi-light.svg" alt="Hi, I'm Saswati. I'm an AI product builder in drug discovery."/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hello2-dark.svg"/>
+  <img width="100%" src="assets/hello2-light.svg" alt="Hi, I'm Saswati. I'm an AI product builder."/>
 </picture>
 
 [LinkedIn](https://www.linkedin.com/in/saswati-panda/) &nbsp;·&nbsp; [Medium](https://medium.com/@saswatipanda91)
 
-I turn research pain points into AI products scientists rely on by framing the problem, aligning stakeholders, and shipping drug discovery tools powered by LLMs and graph neural networks.
+I enjoy creating open-source software, currently for the drug discovery community. I turn research pain points into tools scientists rely on by framing the problem, aligning stakeholders, and shipping with LLMs and graph neural networks.
 
 <br/>
 
