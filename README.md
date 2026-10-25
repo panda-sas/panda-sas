@@ -83,8 +83,8 @@ I turn research pain points into AI products scientists rely on by framing the p
 ### Toolkit
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tools-dark.svg"/>
-  <img width="100%" src="assets/tools-light.svg" alt="Toolkit. Product: User Research, Roadmapping, KPI Design, Agile / Scrum, Figma, Confluence, Tableau. AI / Data: Python, LangChain, Hugging Face, scikit-learn, SQL, KNIME. Build: React, Next.js, Azure, Docker."/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-wc-dark.svg"/>
+  <img width="100%" src="assets/toolkit-wc-light.svg" alt="Toolkit. Product: User Research, Roadmapping, KPI Design, Agile / Scrum, Figma, Confluence, Tableau. AI / Data: Python, LangChain, Hugging Face, scikit-learn, SQL, KNIME. Build: React, Next.js, Azure, Docker."/>
 </picture>
 
 <br/>
