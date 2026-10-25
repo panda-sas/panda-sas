@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"/>
-  <img width="100%" src="assets/banner-light.svg" alt="Saswati Panda · Product manager, AI for drug discovery"/>
+  <img width="100%" src="assets/banner-light.svg" alt="Hi, I'm Saswati. I'm an AI product builder in drug discovery."/>
 </picture>
 
 [LinkedIn](https://www.linkedin.com/in/saswati-panda/) &nbsp;·&nbsp; [Medium](https://medium.com/@saswatipanda91)
@@ -99,5 +99,5 @@ The next generation of DAIKON. It covers data curation, AI/ML prediction, analys
 <br/>
 
 <p align="center">
-  <sub>Building something in AI, health, or science and need a PM who can also read the code? <a href="https://www.linkedin.com/in/saswati-panda/"><b>Let's talk →</b></a></sub>
+  <sub>Building something in AI, health, or science? <a href="https://www.linkedin.com/in/saswati-panda/"><b>Let's talk →</b></a></sub>
 </p>
