@@ -11,7 +11,7 @@
 
 ### About Me
 
-AI product leader with 12+ years of turning complex data into products people rely on, from enterprise analytics at adidas and Wirecard to AI drug discovery platforms adopted by 25+ organizations.
+I turn research pain points into AI products scientists rely on: framing the problem, aligning stakeholders, and shipping drug discovery tools powered by LLMs and graph neural networks.
 
 ---
 
