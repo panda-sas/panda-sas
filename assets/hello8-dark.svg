@@ -26,22 +26,22 @@
     <path d="M1042.1,82.3 Q1050.4,89.9 1061.0,106.4" pathLength="1" class="draw" opacity="0.4" style="animation-delay:0.92s;animation-duration:.6s"/>
     <path d="M1027.0,134.8 Q1009.9,128.8 996.4,127.7" pathLength="1" class="draw" opacity="1" style="animation-delay:0.94s;animation-duration:.6s"/>
     <path d="M1030.2,133.1 Q1018.1,131.6 1001.6,127.8" pathLength="1" class="draw" opacity="0.4" style="animation-delay:1.04s;animation-duration:.6s"/>
-    <path d="M923.9,83.9 Q913.1,75.3 906.2,73.1" pathLength="1" class="draw" opacity="1" style="animation-delay:1.06s;animation-duration:.6s"/>
-    <path d="M925.5,82.4 Q912.3,75.3 906.0,72.9" pathLength="1" class="draw" opacity="0.4" style="animation-delay:1.16s;animation-duration:.6s"/>
-    <path d="M964.4,155.1 Q965.4,166.2 965.7,178.4" pathLength="1" class="draw" opacity="1" style="animation-delay:1.18s;animation-duration:.6s"/>
-    <path d="M965.4,156.6 Q965.9,164.9 966.3,174.6" pathLength="1" class="draw" opacity="0.4" style="animation-delay:1.28s;animation-duration:.6s"/>
-    <path d="M1040.2,67.7 Q1042.0,56.8 1044.1,47.2" pathLength="1" class="draw" opacity="1" style="animation-delay:1.30s;animation-duration:.6s"/>
-    <path d="M1040.9,67.1 Q1045.3,54.4 1047.4,46.2" pathLength="1" class="draw" opacity="0.4" style="animation-delay:1.40s;animation-duration:.6s"/>
+    <path d="M923.9,83.9 Q913.6,75.6 907.0,73.6" pathLength="1" class="draw" opacity="1" style="animation-delay:1.06s;animation-duration:.6s"/>
+    <path d="M925.5,82.4 Q912.8,75.6 906.9,73.4" pathLength="1" class="draw" opacity="0.4" style="animation-delay:1.16s;animation-duration:.6s"/>
+    <path d="M964.4,155.1 Q965.4,162.3 965.7,171.4" pathLength="1" class="draw" opacity="1" style="animation-delay:1.18s;animation-duration:.6s"/>
+    <path d="M965.4,156.6 Q965.9,161.4 966.3,167.6" pathLength="1" class="draw" opacity="0.4" style="animation-delay:1.28s;animation-duration:.6s"/>
+    <path d="M1040.2,67.7 Q1041.9,57.1 1043.8,48.1" pathLength="1" class="draw" opacity="1" style="animation-delay:1.30s;animation-duration:.6s"/>
+    <path d="M1040.9,67.1 Q1045.1,55.0 1047.1,47.1" pathLength="1" class="draw" opacity="0.4" style="animation-delay:1.40s;animation-duration:.6s"/>
     <path d="M999.1,126.5 Q1001.1,103.5 999.6,85.7" pathLength="1" class="draw" opacity="1" style="animation-delay:1.42s;animation-duration:.6s"/>
     <path d="M998.0,126.0 Q1000.7,108.2 999.2,84.4" pathLength="1" class="draw" opacity="0.4" style="animation-delay:1.52s;animation-duration:.6s"/>
     <path d="M1062.4,103.5 Q1052.6,116.2 1040.0,132.1" pathLength="1" class="draw" opacity="1" style="animation-delay:1.54s;animation-duration:.6s"/>
     <path d="M1059.4,102.7 Q1051.8,119.2 1041.0,128.3" pathLength="1" class="draw" opacity="0.4" style="animation-delay:1.64s;animation-duration:.6s"/>
     <path d="M1005.9,121.9 Q1005.1,109.8 1003.6,91.1" pathLength="1" class="draw" opacity="1" style="animation-delay:1.66s;animation-duration:.6s"/>
     <path d="M1052.4,106.1 Q1047.8,114.1 1042.0,124.5" pathLength="1" class="draw" opacity="1" style="animation-delay:1.78s;animation-duration:.6s"/>
-    <path d="M960.1,68.5 Q962.3,57.7 962.0,49.1" pathLength="1" class="draw" opacity="1" style="animation-delay:1.90s;animation-duration:.6s"/>
-    <path d="M969.3,67.2 Q968.2,56.2 966.3,48.5" pathLength="1" class="draw" opacity="1" style="animation-delay:1.90s;animation-duration:.6s"/>
-    <path d="M934.0,130.1 Q922.5,134.1 916.9,139.7" pathLength="1" class="draw" opacity="1" style="animation-delay:2.02s;animation-duration:.6s"/>
-    <path d="M928.8,124.5 Q920.1,129.5 910.4,131.0" pathLength="1" class="draw" opacity="1" style="animation-delay:2.02s;animation-duration:.6s"/>
+    <path d="M958.7,67.9 Q960.9,57.7 960.6,49.5" pathLength="1" class="draw" opacity="1" style="animation-delay:1.90s;animation-duration:.6s"/>
+    <path d="M970.7,66.6 Q969.4,56.2 967.7,49.0" pathLength="1" class="draw" opacity="1" style="animation-delay:1.90s;animation-duration:.6s"/>
+    <path d="M934.6,131.6 Q923.1,135.2 918.0,140.8" pathLength="1" class="draw" opacity="1" style="animation-delay:2.02s;animation-duration:.6s"/>
+    <path d="M928.0,123.5 Q919.2,128.0 910.0,129.5" pathLength="1" class="draw" opacity="1" style="animation-delay:2.02s;animation-duration:.6s"/>
   </g>
   <text x="930.4" y="92.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">N</text>
   <text x="965.0" y="152.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">N</text>
@@ -49,7 +49,9 @@
   <text x="1037.7" y="144.4" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">N</text>
   <text x="965.0" y="44.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">O</text>
   <text x="906.1" y="146.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">O</text>
-  <circle cx="1046.3" cy="47.0" r="3.5" fill="#9b9bf5" class="fade breathe" style="animation-delay:2.54s"/>
-  <text x="1013.6" y="176.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#8d96a0" class="fade" style="animation-delay:2.74s">caffeine</text>
+  <text x="901.7" y="71.0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">CH<tspan font-size="11" dy="3">3</tspan></text>
+  <text x="965.0" y="194.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">CH<tspan font-size="11" dy="3">3</tspan></text>
+  <text x="1044.0" y="40.6" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#8d96a0" class="fade" style="animation-delay:2.14s">CH<tspan font-size="11" dy="3">3</tspan></text>
+  <text x="1065.2" y="194.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#8d96a0" class="fade" style="animation-delay:2.74s">caffeine</text>
   <line x1="40" y1="206" x2="1160" y2="206" stroke="#30363d"/>
 </svg>
