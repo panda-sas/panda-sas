@@ -11,7 +11,7 @@
 
 ### About Me
 
-I build AI-powered drug discovery products at Texas A&M AgriLife Research, working side by side with scientists to turn complex lab data into tools they use every day.
+AI product leader with 12+ years of turning complex data into products people rely on, from enterprise analytics at adidas and Wirecard to AI drug discovery platforms adopted by 25+ organizations.
 
 ---
 
