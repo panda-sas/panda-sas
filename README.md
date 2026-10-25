@@ -25,7 +25,7 @@
 
 ### Products I've helped ship
 
-Applications I've helped take from idea to production at [SacLab, Texas A&M](https://saclab.biobio.tamu.edu/). Drug discovery teams in academic, nonprofit, and pharmaceutical organizations use them.
+Applications I've helped take from idea to production at [SacLab, Texas A&M](https://saclab.biobio.tamu.edu/) and now used by drug discovery teams in academic, nonprofit, and pharmaceutical organizations.
 
 <table>
   <tr>
