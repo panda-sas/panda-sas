@@ -76,8 +76,8 @@ Used by drug discovery teams in academic, nonprofit, and pharmaceutical organiza
 ### Toolkit
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-loop-dark.svg"/>
-  <img width="100%" src="assets/toolkit-loop-light.svg" alt="Toolkit. Product: User Research, Roadmapping, KPI Design, Agile / Scrum, Figma, Confluence, Tableau. AI / Data: Python, LangChain, Hugging Face, scikit-learn, SQL, KNIME. Build: React, Next.js, Azure, Docker."/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-v3-dark.svg"/>
+  <img width="100%" src="assets/toolkit-v3-light.svg" alt="Toolkit. AI & Scientific Systems: Agentic AI, LLM-based Vector Retrieval, Knowledge Graphs, Generative AI, RAG, Prompt Engineering, Deep Learning Models, LangChain, Hugging Face, Scikit-learn, SQL, NoSQL. Platforms & Tooling: Jupyter, VS Code, Python, Figma, JIRA, Confluence, Miro, KNIME, Benchling, Smartsheet. Prototyping & Coding: Lovable, Replit, Vercel, Cursor, Codex, Claude Code. Product: Requirements Definition, Project & Milestone Planning, Stakeholder Alignment, Pilot-to-Production Transition, Cross-functional Coordination, Agile / Scrum, Product Roadmapping, KPI Development, Market Research, Stakeholder Collaboration."/>
 </picture>
 
 <br/>
