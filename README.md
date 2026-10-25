@@ -5,7 +5,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/saswati-panda/) &nbsp;·&nbsp; [Medium](https://medium.com/@saswatipanda91)
 
-I enjoy building open-source products, currently in the life sciences and pharmaceutical domains. I turn research pain points into tools scientists rely on by framing the problem, aligning stakeholders, and shipping with LLMs and graph neural networks.
+I enjoy building open-source products, currently in the life sciences and pharmaceutical domain.
 
 <br/>
 
